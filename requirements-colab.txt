@@ -1,0 +1,79 @@
+# ================================
+# GOOGLE COLAB REQUIREMENTS
+# For running AI model notebooks in Google Colab
+# ================================
+
+# Note: Google Colab comes with many packages pre-installed
+# This file lists only the additional packages needed
+
+# ================================
+# NGROK TUNNELING
+# ================================
+pyngrok>=7.0.0
+
+# ================================
+# NEO4J DATABASE
+# ================================
+neo4j>=5.28.0
+
+# ================================
+# FLASK API SERVER
+# ================================
+Flask>=2.3.0
+Flask-CORS>=4.0.0
+
+# ================================
+# AI MODEL PACKAGES
+# ================================
+# Note: PyTorch and transformers are usually pre-installed in Colab
+# But we specify versions for compatibility
+
+# Hugging Face Transformers (may need upgrade)
+transformers>=4.35.0
+accelerate>=0.24.0
+
+# Model optimization
+bitsandbytes>=0.41.0
+
+# ================================
+# UTILITIES
+# ================================
+# Progress bars (usually pre-installed)
+tqdm>=4.66.0
+
+# JSON handling
+ujson>=5.8.0
+
+# ================================
+# INSTALLATION IN COLAB
+# ================================
+# Add this cell to your Colab notebook:
+#
+# !pip install pyngrok neo4j Flask Flask-CORS
+# !pip install --upgrade transformers accelerate bitsandbytes
+#
+# Or install from this file:
+# !pip install -r requirements-colab.txt
+#
+# ================================
+# COLAB-SPECIFIC NOTES
+# ================================
+# 1. GPU Runtime: Select "GPU" in Runtime > Change runtime type
+# 2. High RAM: Select "High-RAM" if available for large models
+# 3. Colab Pro: Recommended for faster GPUs and longer runtimes
+# 4. Model Caching: Models are cached between sessions in /root/.cache/
+# 5. Ngrok Auth: Set your ngrok auth token in the notebook
+# 6. Secrets: Use Colab Secrets for sensitive tokens (HF_TOKEN, etc.)
+
+# ================================
+# PRE-INSTALLED IN COLAB
+# ================================
+# These packages are typically already available:
+# - torch
+# - torchvision  
+# - torchaudio
+# - numpy
+# - pandas
+# - matplotlib
+# - requests
+# - urllib3 

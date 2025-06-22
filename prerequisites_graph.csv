@@ -1,0 +1,1522 @@
+prerequisite,topic
+Introduction,1 AN OVERVIEW OF COMPUTERS AND PROGRAMMING LANGUAGES
+The Language of a Computer,1 AN OVERVIEW OF COMPUTERS AND PROGRAMMING LANGUAGES
+The Evolution of Programming Languages,1 AN OVERVIEW OF COMPUTERS AND PROGRAMMING LANGUAGES
+The Language of a Computer,Introduction
+Processing a C++ Program,Introduction
+Elements of a Computer System,Central Processing Unit and Main Memory
+Elements of a Computer System,Input /Output Devices
+The Language of a Computer,Software
+A Brief Overview of the History of Computers,Processing a C++ Program
+Elements of a Computer System,Processing a C++ Program
+The Language of a Computer,Processing a C++ Program
+The Evolution of Programming Languages,Processing a C++ Program
+Programming with the Problem Analysis–Coding–Execution Cycle,Structured Programming
+Structured Programming,Object-Oriented Programming
+The Evolution of Programming Languages,ANSI/ISO Standard C++
+Processing a C++ Program,ANSI/ISO Standard C++
+1 AN OVERVIEW OF COMPUTERS AND PROGRAMMING LANGUAGES,Quick Review
+Elements of a Computer System,Quick Review
+Input /Output Devices,Quick Review
+Software,Quick Review
+The Language of a Computer,Quick Review
+Elements of a Computer System,Exercises
+The Language of a Computer,Exercises
+Processing a C++ Program,Exercises
+1 AN OVERVIEW OF COMPUTERS AND PROGRAMMING LANGUAGES,2 BASIC ELEMENTS OF C++
+The Language of a Computer,A C++ Program
+Processing a C++ Program,A C++ Program
+The Language of a Computer,The Basics of a C++ Program
+Processing a C++ Program,The Basics of a C++ Program
+The Language of a Computer,Comments
+Processing a C++ Program,Comments
+The Language of a Computer,Reserved Words (Keywords)
+Processing a C++ Program,Reserved Words (Keywords)
+The Language of a Computer,Identifiers
+Processing a C++ Program,Identifiers
+The Language of a Computer,Whitespaces
+Processing a C++ Program,Whitespaces
+The Language of a Computer,Data Types
+Processing a C++ Program,Data Types
+The Language of a Computer,Simple Data Types
+Processing a C++ Program,Simple Data Types
+A Brief Overview of the History of Computers,Floating-Point Data Types
+Elements of a Computer System,Floating-Point Data Types
+The Language of a Computer,Floating-Point Data Types
+Processing a C++ Program,Floating-Point Data Types
+The Language of a Computer,Arithmetic Operators and Operator Precedence
+Processing a C++ Program,Arithmetic Operators and Operator Precedence
+The Language of a Computer,Order of Precedence
+Processing a C++ Program,Order of Precedence
+Introduction,Expressions
+The Language of a Computer,Expressions
+The Language of a Computer,Mixed Expressions
+Processing a C++ Program,Mixed Expressions
+The Language of a Computer,Type Conversion (Casting)
+Processing a C++ Program,Type Conversion (Casting)
+The Language of a Computer,string Type
+ANSI/ISO Standard C++,string Type
+Central Processing Unit and Main Memory,Input
+Input /Output Devices,Input
+The Language of a Computer,Allocating Memory with Constants and Variables
+Processing a C++ Program,Allocating Memory with Constants and Variables
+The Language of a Computer,Assignment Statement
+Processing a C++ Program,Assignment Statement
+Processing a C++ Program,Saving and Using the Value of an Expression
+Programming with the Problem Analysis–Coding–Execution Cycle,Saving and Using the Value of an Expression
+Central Processing Unit and Main Memory,Declaring and Initializing Variables
+The Language of a Computer,Declaring and Initializing Variables
+Introduction,Input (Read) Statement
+Processing a C++ Program,Input (Read) Statement
+The Language of a Computer,Variable Initialization
+Processing a C++ Program,Variable Initialization
+Processing a C++ Program,Increment and Decrement Operators
+Programming with the Problem Analysis–Coding–Execution Cycle,Increment and Decrement Operators
+Elements of a Computer System,Output
+Central Processing Unit and Main Memory,Output
+Input /Output Devices,Output
+The Language of a Computer,Output
+Processing a C++ Program,Output
+The Language of a Computer,Preprocessor Directives
+Processing a C++ Program,Preprocessor Directives
+Processing a C++ Program,namespace and Using cin and cout in a Program
+ANSI/ISO Standard C++,namespace and Using cin and cout in a Program
+The Language of a Computer,Using the string Data Type in a Program
+Processing a C++ Program,Using the string Data Type in a Program
+Processing a C++ Program,Creating a C++ Program
+Programming with the Problem Analysis–Coding–Execution Cycle,Creating a C++ Program
+Processing a C++ Program,Debugging: Understanding and Fixing Syntax Errors
+Programming with the Problem Analysis–Coding–Execution Cycle,Debugging: Understanding and Fixing Syntax Errors
+Processing a C++ Program,Program Style and Form
+Programming with the Problem Analysis–Coding–Execution Cycle,Program Style and Form
+Structured Programming,Program Style and Form
+The Language of a Computer,Syntax
+Processing a C++ Program,Syntax
+The Language of a Computer,"Use of Semicolons, Brackets, and Commas"
+Processing a C++ Program,"Use of Semicolons, Brackets, and Commas"
+The Language of a Computer,Semantics
+Processing a C++ Program,Semantics
+The Language of a Computer,Prompt Lines
+Processing a C++ Program,Prompt Lines
+The Language of a Computer,Form and Style
+Processing a C++ Program,Form and Style
+The Language of a Computer,More on Assignment Statements
+Processing a C++ Program,More on Assignment Statements
+The Language of a Computer,Programming Example: Convert Length
+Processing a C++ Program,Programming Example: Convert Length
+The Language of a Computer,Programming Example: Make Change
+Processing a C++ Program,Programming Example: Make Change
+The Language of a Computer,Quick Review
+Processing a C++ Program,Quick Review
+The Language of a Computer,Exercises
+Processing a C++ Program,Exercises
+Processing a C++ Program,Programming Exercises
+Programming with the Problem Analysis–Coding–Execution Cycle,Programming Exercises
+1 AN OVERVIEW OF COMPUTERS AND PROGRAMMING LANGUAGES,3 INPUT/OUTPUT
+Input /Output Devices,3 INPUT/OUTPUT
+Processing a C++ Program,3 INPUT/OUTPUT
+Input /Output Devices,I/O Streams and Standard I/O Devices
+Processing a C++ Program,I/O Streams and Standard I/O Devices
+Processing a C++ Program,cin and the Extraction Operator >>
+The Language of a Computer,cin and the Extraction Operator >>
+Processing a C++ Program,Using Predefined Functions in a Program
+Programming with the Problem Analysis–Coding–Execution Cycle,Using Predefined Functions in a Program
+The Language of a Computer,cin and the get Function
+Processing a C++ Program,cin and the get Function
+The Language of a Computer,cin and the ignore Function
+Processing a C++ Program,cin and the ignore Function
+The Language of a Computer,The putback and peek Functions
+Processing a C++ Program,The putback and peek Functions
+Input /Output Devices,The Dot Notation between I/O Stream Variables and I/O Functions: A Precaution
+Processing a C++ Program,The Dot Notation between I/O Stream Variables and I/O Functions: A Precaution
+The Language of a Computer,Input Failure
+Processing a C++ Program,Input Failure
+The Language of a Computer,The clear Function
+Processing a C++ Program,The clear Function
+Input /Output Devices,Output and Formatting Output
+The Language of a Computer,Output and Formatting Output
+The Language of a Computer,setprecision Manipulator
+Processing a C++ Program,setprecision Manipulator
+Elements of a Computer System,fixed Manipulator
+The Language of a Computer,fixed Manipulator
+Processing a C++ Program,fixed Manipulator
+The Language of a Computer,showpoint Manipulator
+Processing a C++ Program,showpoint Manipulator
+The Language of a Computer,setw
+Processing a C++ Program,setw
+Introduction,Additional Output Formatting Tools
+The Language of a Computer,Additional Output Formatting Tools
+Processing a C++ Program,Additional Output Formatting Tools
+Input /Output Devices,setfill Manipulator
+The Language of a Computer,setfill Manipulator
+Input /Output Devices,left and right Manipulators
+The Language of a Computer,left and right Manipulators
+Input /Output Devices,Input/Output and the string Type
+The Language of a Computer,Input/Output and the string Type
+Processing a C++ Program,Debugging: Understanding Logic Errors and Debugging with cout Statements
+Programming with the Problem Analysis–Coding–Execution Cycle,Debugging: Understanding Logic Errors and Debugging with cout Statements
+Input /Output Devices,File Input/Output
+Software,File Input/Output
+The Language of a Computer,Programming Example: Movie Tickets Sale and Donation to Charity
+Processing a C++ Program,Programming Example: Movie Tickets Sale and Donation to Charity
+Processing a C++ Program,Programming Example: Student Grade
+Programming with the Problem Analysis–Coding–Execution Cycle,Programming Example: Student Grade
+The Language of a Computer,Quick Review
+Processing a C++ Program,Quick Review
+Input /Output,Exercises
+Processing a C++ Program,Programming Exercises
+The Language of a Computer,Programming Exercises
+1 AN OVERVIEW OF COMPUTERS AND PROGRAMMING LANGUAGES,4 CONTROL STRUCTURES I (SELECTION)
+Processing a C++ Program,4 CONTROL STRUCTURES I (SELECTION)
+The Language of a Computer,Control Structures
+Processing a C++ Program,Control Structures
+The Language of a Computer,Relational Operators
+Processing a C++ Program,Relational Operators
+The Language of a Computer,Relational Operators and Simple Data Types
+Processing a C++ Program,Relational Operators and Simple Data Types
+The Language of a Computer,Comparing Characters
+The Evolution of Programming Languages,Comparing Characters
+The Language of a Computer,Relational Operators and the string Type
+Processing a C++ Program,Relational Operators and the string Type
+The Language of a Computer,Logical (Boolean) Operators and Logical Expressions
+Processing a C++ Program,Logical (Boolean) Operators and Logical Expressions
+The Language of a Computer,Order of Precedence
+Processing a C++ Program,Order of Precedence
+The Language of a Computer,int Data Type and Logical (Boolean) Expressions
+Processing a C++ Program,int Data Type and Logical (Boolean) Expressions
+The Language of a Computer,bool Data Type and Logical (Boolean) Expressions
+Processing a C++ Program,bool Data Type and Logical (Boolean) Expressions
+The Language of a Computer,Selection: if and ifelse
+Processing a C++ Program,Selection: if and ifelse
+The Language of a Computer,One-Way Selection 189
+Processing a C++ Program,One-Way Selection 189
+Processing a C++ Program,Two-Way Selection
+Structured Programming,Two-Way Selection
+Processing a C++ Program,Compound (Block of) Statements
+Structured Programming,Compound (Block of) Statements
+Processing a C++ Program,Multiple Selections: Nested if
+Structured Programming,Multiple Selections: Nested if
+Processing a C++ Program,Comparing ifelse Statements with a Series of if Statements
+Structured Programming,Comparing ifelse Statements with a Series of if Statements
+The Language of a Computer,Short-Circuit Evaluation
+Processing a C++ Program,Short-Circuit Evaluation
+Processing a C++ Program,Comparing Floating-Point Numbers for Equality: A Precaution
+Programming with the Problem Analysis–Coding–Execution Cycle,Comparing Floating-Point Numbers for Equality: A Precaution
+The Language of a Computer,Associativity of Relational Operators: A Precaution
+Processing a C++ Program,Associativity of Relational Operators: A Precaution
+The Language of a Computer,Avoiding Bugs by Avoiding Partially Understood Concepts and Techniques
+Processing a C++ Program,Avoiding Bugs by Avoiding Partially Understood Concepts and Techniques
+Processing a C++ Program,Input Failure and the if Statement
+Structured Programming,Input Failure and the if Statement
+The Language of a Computer,Confusion between the Equality Operator (==) and the Assignment Operator (=)
+Processing a C++ Program,Confusion between the Equality Operator (==) and the Assignment Operator (=)
+The Language of a Computer,Conditional Operator (?:)
+Processing a C++ Program,Conditional Operator (?:)
+Programming with the Problem Analysis–Coding–Execution Cycle,Program Style and Form (Revisited): Indentation
+Structured Programming,Program Style and Form (Revisited): Indentation
+Processing a C++ Program,"Using Pseudocode to Develop, Test, and Debug a Program"
+Programming with the Problem Analysis–Coding–Execution Cycle,"Using Pseudocode to Develop, Test, and Debug a Program"
+The Language of a Computer,switch Structures
+Processing a C++ Program,switch Structures
+Processing a C++ Program,Avoiding Bugs by Avoiding Partially Understood Concepts and Techniques (Revisited)
+Programming with the Problem Analysis–Coding–Execution Cycle,Avoiding Bugs by Avoiding Partially Understood Concepts and Techniques (Revisited)
+Processing a C++ Program,Terminating a Program with the assert Function
+Structured Programming,Terminating a Program with the assert Function
+The Language of a Computer,Programming Example: Cable Company Billing
+Processing a C++ Program,Programming Example: Cable Company Billing
+The Language of a Computer,Quick Review
+Processing a C++ Program,Quick Review
+Structured Programming,Quick Review
+Elements of a Computer System,Exercises
+The Language of a Computer,Exercises
+Processing a C++ Program,Exercises
+The Language of a Computer,Programming Exercises
+Processing a C++ Program,Programming Exercises
+1 AN OVERVIEW OF COMPUTERS AND PROGRAMMING LANGUAGES,5 CONTROL STRUCTURES II (REPETITION)
+Structured Programming,5 CONTROL STRUCTURES II (REPETITION)
+Processing a C++ Program,Why Is Repetition Needed?
+Programming with the Problem Analysis–Coding–Execution Cycle,Why Is Repetition Needed?
+Processing a C++ Program,while Looping (Repetition) Structure
+Structured Programming,while Looping (Repetition) Structure
+Processing a C++ Program,Designing while Loops
+Structured Programming,Designing while Loops
+Elements of a Computer System,Case 1: Counter-Controlled while Loops
+Central Processing Unit and Main Memory,Case 1: Counter-Controlled while Loops
+Software,Case 1: Counter-Controlled while Loops
+The Language of a Computer,Case 1: Counter-Controlled while Loops
+Elements of a Computer System,Case 2: Sentinel-Controlled while Loops
+Central Processing Unit and Main Memory,Case 2: Sentinel-Controlled while Loops
+Input /Output Devices,Case 2: Sentinel-Controlled while Loops
+Software,Case 2: Sentinel-Controlled while Loops
+The Language of a Computer,Case 2: Sentinel-Controlled while Loops
+Processing a C++ Program,Case 2: Sentinel-Controlled while Loops
+Programming with the Problem Analysis–Coding–Execution Cycle,Case 2: Sentinel-Controlled while Loops
+The Language of a Computer,Case 3: Flag-Controlled while Loops
+Processing a C++ Program,Case 3: Flag-Controlled while Loops
+Processing a C++ Program,Case 4: EOF-Controlled while Loops
+The Language of a Computer,Case 4: EOF-Controlled while Loops
+Processing a C++ Program,eof Function
+Structured Programming,eof Function
+Elements of a Computer System,More on Expressions in while Statements
+Central Processing Unit and Main Memory,More on Expressions in while Statements
+Software,More on Expressions in while Statements
+The Language of a Computer,More on Expressions in while Statements
+Processing a C++ Program,More on Expressions in while Statements
+Processing a C++ Program,Programming Example: Fibonacci Number
+Programming with the Problem Analysis–Coding–Execution Cycle,Programming Example: Fibonacci Number
+Processing a C++ Program,for Looping (Repetition) Structure
+Structured Programming,for Looping (Repetition) Structure
+The Language of a Computer,Programming Example: Classifying Numbers
+Processing a C++ Program,Programming Example: Classifying Numbers
+A Brief Overview of the History of Computers,dowhile Looping (Repetition) Structure
+Elements of a Computer System,dowhile Looping (Repetition) Structure
+Central Processing Unit and Main Memory,dowhile Looping (Repetition) Structure
+Input /Output Devices,dowhile Looping (Repetition) Structure
+Software,dowhile Looping (Repetition) Structure
+The Language of a Computer,dowhile Looping (Repetition) Structure
+Processing a C++ Program,dowhile Looping (Repetition) Structure
+Programming with the Problem Analysis–Coding–Execution Cycle,dowhile Looping (Repetition) Structure
+Processing a C++ Program,Choosing the Right Looping Structure
+Programming with the Problem Analysis–Coding–Execution Cycle,Choosing the Right Looping Structure
+Elements of a Computer System,break and continue Statements
+Central Processing Unit and Main Memory,break and continue Statements
+Input /Output Devices,break and continue Statements
+Software,break and continue Statements
+The Language of a Computer,break and continue Statements
+Processing a C++ Program,break and continue Statements
+Elements of a Computer System,Nested Control Structures
+Central Processing Unit and Main Memory,Nested Control Structures
+Software,Nested Control Structures
+The Language of a Computer,Nested Control Structures
+The Language of a Computer,Avoiding Bugs by Avoiding Patches
+Processing a C++ Program,Avoiding Bugs by Avoiding Patches
+Processing a C++ Program,Debugging Loops
+Structured Programming,Debugging Loops
+The Language of a Computer,Quick Review
+Processing a C++ Program,Quick Review
+Processing a C++ Program,Exercises
+Structured Programming,Exercises
+Introduction,Programming Exercises
+A Brief Overview of the History of Computers,Programming Exercises
+Elements of a Computer System,Programming Exercises
+Central Processing Unit and Main Memory,Programming Exercises
+Input /Output Devices,Programming Exercises
+Software,Programming Exercises
+The Language of a Computer,Programming Exercises
+Processing a C++ Program,Programming Exercises
+1 AN OVERVIEW OF COMPUTERS AND PROGRAMMING LANGUAGES,6 USER-DEFINED FUNCTIONS I
+Processing a C++ Program,6 USER-DEFINED FUNCTIONS I
+The Language of a Computer,Predefined Functions
+Processing a C++ Program,Predefined Functions
+Processing a C++ Program,User-Defined Functions
+Programming with the Problem Analysis–Coding–Execution Cycle,User-Defined Functions
+Processing a C++ Program,Value-Returning Functions
+Programming with the Problem Analysis–Coding–Execution Cycle,Value-Returning Functions
+The Language of a Computer,Syntax: Formal Parameter List
+Processing a C++ Program,Syntax: Formal Parameter List
+The Language of a Computer,Syntax: Actual Parameter List
+Processing a C++ Program,Syntax: Actual Parameter List
+The Language of a Computer,Syntax: return Statement
+Processing a C++ Program,Syntax: return Statement
+Processing a C++ Program,Function Prototype
+Programming with the Problem Analysis–Coding–Execution Cycle,Function Prototype
+The Language of a Computer,Syntax: Function Prototype
+Processing a C++ Program,Syntax: Function Prototype
+The Language of a Computer,Value-Returning Functions: Some Peculiarity
+Processing a C++ Program,Value-Returning Functions: Some Peculiarity
+Elements of a Computer System,More Examples of Value-Returning Functions
+Central Processing Unit and Main Memory,More Examples of Value-Returning Functions
+Software,More Examples of Value-Returning Functions
+The Language of a Computer,More Examples of Value-Returning Functions
+Processing a C++ Program,More Examples of Value-Returning Functions
+Processing a C++ Program,Flow of Execution
+Programming with the Problem Analysis–Coding–Execution Cycle,Flow of Execution
+Processing a C++ Program,Programming Example: Largest Number
+Programming with the Problem Analysis–Coding–Execution Cycle,Programming Example: Largest Number
+Structured Programming,Programming Example: Cable Company
+Processing a C++ Program,Programming Example: Cable Company
+The Language of a Computer,Quick Review
+Processing a C++ Program,Quick Review
+The Language of a Computer,Programming Exercises
+Processing a C++ Program,Programming Exercises
+1 AN OVERVIEW OF COMPUTERS AND PROGRAMMING LANGUAGES,7 USER-DEFINED FUNCTIONS II
+Processing a C++ Program,7 USER-DEFINED FUNCTIONS II
+Structured Programming,7 USER-DEFINED FUNCTIONS II
+The Language of a Computer,Void Functions
+Processing a C++ Program,Void Functions
+The Language of a Computer,FORMAL PARAMETER LIST
+Processing a C++ Program,FORMAL PARAMETER LIST
+The Language of a Computer,ACTUAL PARAMETER LIST
+Processing a C++ Program,ACTUAL PARAMETER LIST
+Elements of a Computer System,Value Parameters
+The Language of a Computer,Value Parameters
+Processing a C++ Program,Reference Variables as Parameters
+Structured Programming,Reference Variables as Parameters
+Processing a C++ Program,Calculate Grade
+Programming with the Problem Analysis–Coding–Execution Cycle,Calculate Grade
+Processing a C++ Program,Value and Reference Parameters and Memory Allocation
+Programming with the Problem Analysis–Coding–Execution Cycle,Value and Reference Parameters and Memory Allocation
+The Language of a Computer,Reference Parameters and Value-Returning Functions
+Processing a C++ Program,Reference Parameters and Value-Returning Functions
+Programming with the Problem Analysis–Coding–Execution Cycle,Reference Parameters and Value-Returning Functions
+Processing a C++ Program,Scope of an Identifier
+Structured Programming,Scope of an Identifier
+Processing a C++ Program,"Global Variables, Named Constants, and Side Effects"
+Programming with the Problem Analysis–Coding–Execution Cycle,"Global Variables, Named Constants, and Side Effects"
+The Language of a Computer,Static and Automatic Variables
+Processing a C++ Program,Static and Automatic Variables
+Processing a C++ Program,Debugging: Using Drivers and Stubs
+Programming with the Problem Analysis–Coding–Execution Cycle,Debugging: Using Drivers and Stubs
+The Language of a Computer,Function Overloading: An Introduction
+Processing a C++ Program,Function Overloading: An Introduction
+Processing a C++ Program,Functions with Default Parameters
+Structured Programming,Functions with Default Parameters
+Processing a C++ Program,Programming Example: Classify Numbers
+Structured Programming,Programming Example: Classify Numbers
+Processing a C++ Program,Programming Example: Data Comparison
+Structured Programming,Programming Example: Data Comparison
+The Language of a Computer,Quick Review
+Processing a C++ Program,Quick Review
+Processing a C++ Program,Exercises
+Programming with the Problem Analysis–Coding–Execution Cycle,Exercises
+The Language of a Computer,Programming Exercises
+Processing a C++ Program,Programming Exercises
+1 AN OVERVIEW OF COMPUTERS AND PROGRAMMING LANGUAGES,"8 USER-DEFINED SIMPLE DATA TYPES, NAMESPACES, AND THE string TYPE"
+Processing a C++ Program,"8 USER-DEFINED SIMPLE DATA TYPES, NAMESPACES, AND THE string TYPE"
+The Language of a Computer,Enumeration Type
+Processing a C++ Program,Enumeration Type
+The Language of a Computer,Declaring Variables
+Processing a C++ Program,Declaring Variables
+The Language of a Computer,Operations on Enumeration Types
+Processing a C++ Program,Operations on Enumeration Types
+The Language of a Computer,Relational Operators
+Processing a C++ Program,Relational Operators
+Elements of a Computer System,Input /Output of Enumeration Types
+Input /Output Devices,Input /Output of Enumeration Types
+The Language of a Computer,Input /Output of Enumeration Types
+Processing a C++ Program,Input /Output of Enumeration Types
+A Brief Overview of the History of Computers,Functions and Enumeration Types
+Elements of a Computer System,Functions and Enumeration Types
+The Language of a Computer,Functions and Enumeration Types
+Processing a C++ Program,Functions and Enumeration Types
+The Language of a Computer,Declaring Variables When Defining the Enumeration Type
+Processing a C++ Program,Declaring Variables When Defining the Enumeration Type
+The Language of a Computer,Anonymous Data Types
+Processing a C++ Program,Anonymous Data Types
+The Language of a Computer,typedef Statement
+Processing a C++ Program,typedef Statement
+The Language of a Computer,"Programming Example: The Game of Rock, Paper, and Scissors"
+Processing a C++ Program,"Programming Example: The Game of Rock, Paper, and Scissors"
+The Language of a Computer,Namespaces
+Processing a C++ Program,Namespaces
+ANSI/ISO Standard C++,Namespaces
+The Language of a Computer,string Type
+Processing a C++ Program,string Type
+The Language of a Computer,Additional string Operations
+Processing a C++ Program,Additional string Operations
+The Language of a Computer,Programming Example: Pig Latin Strings
+Processing a C++ Program,Programming Example: Pig Latin Strings
+The Language of a Computer,Quick Review
+Processing a C++ Program,Quick Review
+The Language of a Computer,Exercises
+Processing a C++ Program,Exercises
+Elements of a Computer System,Programming Exercises
+The Language of a Computer,Programming Exercises
+Processing a C++ Program,Programming Exercises
+1 AN OVERVIEW OF COMPUTERS AND PROGRAMMING LANGUAGES,9 ARRAYS AND STRINGS
+Elements of a Computer System,Arrays
+The Language of a Computer,Arrays
+The Language of a Computer,Accessing Array Components
+Processing a C++ Program,Accessing Array Components
+Processing a C++ Program,Processing One-Dimensional Arrays
+Structured Programming,Processing One-Dimensional Arrays
+Elements of a Computer System,Array Initialization During Declaration
+The Language of a Computer,Array Initialization During Declaration
+The Language of a Computer,Partial Initialization of Arrays During Declaration
+Processing a C++ Program,Partial Initialization of Arrays During Declaration
+Elements of a Computer System,Arrays as Parameters to Functions
+Central Processing Unit and Main Memory,Arrays as Parameters to Functions
+The Language of a Computer,Arrays as Parameters to Functions
+Processing a C++ Program,Arrays as Parameters to Functions
+Elements of a Computer System,Constant Arrays as Formal Parameters
+Central Processing Unit and Main Memory,Constant Arrays as Formal Parameters
+Software,Constant Arrays as Formal Parameters
+The Language of a Computer,Constant Arrays as Formal Parameters
+Elements of a Computer System,Base Address of an Array and Array in Computer Memory
+Central Processing Unit and Main Memory,Base Address of an Array and Array in Computer Memory
+Elements of a Computer System,Functions Cannot Return a Value of the Type Array
+Central Processing Unit and Main Memory,Functions Cannot Return a Value of the Type Array
+Software,Functions Cannot Return a Value of the Type Array
+The Language of a Computer,Functions Cannot Return a Value of the Type Array
+Processing a C++ Program,Functions Cannot Return a Value of the Type Array
+Elements of a Computer System,Integral Data Type and Array Indices
+The Language of a Computer,Integral Data Type and Array Indices
+Processing a C++ Program,Integral Data Type and Array Indices
+The Language of a Computer,Other Ways to Declare Arrays
+Processing a C++ Program,Other Ways to Declare Arrays
+The Language of a Computer,Searching an Array for a Specific Item
+Processing a C++ Program,Searching an Array for a Specific Item
+The Language of a Computer,C-Strings (Character Arrays)
+Processing a C++ Program,C-Strings (Character Arrays)
+The Language of a Computer,String Comparison
+Processing a C++ Program,String Comparison
+The Language of a Computer,Reading and Writing Strings
+Processing a C++ Program,Reading and Writing Strings
+The Language of a Computer,String Input
+Processing a C++ Program,String Input
+The Language of a Computer,String Output
+Processing a C++ Program,String Output
+Processing a C++ Program,Specifying Input/Output Files at Execution Time
+Programming with the Problem Analysis–Coding–Execution Cycle,Specifying Input/Output Files at Execution Time
+A Brief Overview of the History of Computers,string Type and Input/Output Files
+Elements of a Computer System,string Type and Input/Output Files
+The Language of a Computer,string Type and Input/Output Files
+Processing a C++ Program,string Type and Input/Output Files
+Elements of a Computer System,Parallel Arrays
+Central Processing Unit and Main Memory,Parallel Arrays
+Software,Parallel Arrays
+The Language of a Computer,Parallel Arrays
+A Brief Overview of the History of Computers,Two- and Multidimensional Arrays
+Elements of a Computer System,Two- and Multidimensional Arrays
+Central Processing Unit and Main Memory,Two- and Multidimensional Arrays
+Input /Output Devices,Two- and Multidimensional Arrays
+Software,Two- and Multidimensional Arrays
+The Language of a Computer,Two- and Multidimensional Arrays
+Processing a C++ Program,Two- and Multidimensional Arrays
+A Brief Overview of the History of Computers,Accessing Array Components
+Elements of a Computer System,Accessing Array Components
+Central Processing Unit and Main Memory,Accessing Array Components
+Input /Output Devices,Accessing Array Components
+Software,Accessing Array Components
+The Language of a Computer,Accessing Array Components
+Processing a C++ Program,Accessing Array Components
+The Language of a Computer,Two-Dimensional Array Initialization During Declaration
+Processing a C++ Program,Two-Dimensional Array Initialization During Declaration
+The Language of a Computer,Two-Dimensional Arrays and Enumeration Types
+Processing a C++ Program,Two-Dimensional Arrays and Enumeration Types
+Processing a C++ Program,Initialization
+Structured Programming,Initialization
+The Language of a Computer,Print
+Processing a C++ Program,Print
+Processing a C++ Program,Input
+A Brief Overview of the History of Computers,Sum by Row
+Elements of a Computer System,Sum by Row
+Central Processing Unit and Main Memory,Sum by Row
+Input /Output Devices,Sum by Row
+Software,Sum by Row
+The Language of a Computer,Sum by Row
+Processing a C++ Program,Sum by Row
+The Language of a Computer,Sum by Column
+Processing a C++ Program,Sum by Column
+Processing a C++ Program,Largest Element in Each Row and Each Column
+Programming with the Problem Analysis–Coding–Execution Cycle,Largest Element in Each Row and Each Column
+The Language of a Computer,Passing Two-Dimensional Arrays as Parameters to Functions
+Processing a C++ Program,Passing Two-Dimensional Arrays as Parameters to Functions
+The Language of a Computer,Arrays of Strings
+Processing a C++ Program,Arrays of Strings
+The Language of a Computer,Arrays of Strings and the string Type
+Processing a C++ Program,Arrays of Strings and the string Type
+1 AN OVERVIEW OF COMPUTERS AND PROGRAMMING LANGUAGES,Arrays of Strings and C-Strings (Character Arrays)
+Processing a C++ Program,Arrays of Strings and C-Strings (Character Arrays)
+Programming with the Problem Analysis–Coding–Execution Cycle,Arrays of Strings and C-Strings (Character Arrays)
+Two- and Multidimensional Arrays,Another Way to Declare a Two-Dimensional Array
+The Language of a Computer,Multidimensional Arrays
+Processing a C++ Program,Multidimensional Arrays
+The Language of a Computer,Programming Example: Code Detection
+Processing a C++ Program,Programming Example: Code Detection
+The Language of a Computer,Programming Example: Text Processing
+Processing a C++ Program,Programming Example: Text Processing
+The Language of a Computer,Quick Review
+Processing a C++ Program,Quick Review
+The Language of a Computer,Exercises
+Processing a C++ Program,Exercises
+Processing a C++ Program,Programming Exercises
+Programming with the Problem Analysis–Coding–Execution Cycle,Programming Exercises
+1 AN OVERVIEW OF COMPUTERS AND PROGRAMMING LANGUAGES,10 RECORDS (structS)
+Processing a C++ Program,10 RECORDS (structS)
+Structured Programming,10 RECORDS (structS)
+Processing a C++ Program,Records (structs)
+Structured Programming,Records (structs)
+Elements of a Computer System,Accessing struct Members
+The Language of a Computer,Accessing struct Members
+Elements of a Computer System,Assignment
+Central Processing Unit and Main Memory,Assignment
+Software,Assignment
+The Language of a Computer,Assignment
+Processing a C++ Program,Assignment
+Elements of a Computer System,Comparison (Relational Operators)
+The Language of a Computer,Comparison (Relational Operators)
+Input /Output Devices,Input /Output
+Processing a C++ Program,Input /Output
+Elements of a Computer System,struct Variables and Functions
+The Language of a Computer,struct Variables and Functions
+Processing a C++ Program,struct Variables and Functions
+A Brief Overview of the History of Computers,Arrays versus structs
+Elements of a Computer System,Arrays versus structs
+The Language of a Computer,Arrays versus structs
+Processing a C++ Program,Arrays versus structs
+Elements of a Computer System,Arrays in structs
+Central Processing Unit and Main Memory,Arrays in structs
+Software,Arrays in structs
+The Language of a Computer,Arrays in structs
+Elements of a Computer System,structs in Arrays
+Central Processing Unit and Main Memory,structs in Arrays
+Software,structs in Arrays
+The Language of a Computer,structs in Arrays
+Structured Programming,structs within a struct
+The Language of a Computer,Quick Review
+Processing a C++ Program,Quick Review
+Processing a C++ Program,Exercises
+Structured Programming,Exercises
+The Language of a Computer,Programming Exercises
+Processing a C++ Program,Programming Exercises
+1 AN OVERVIEW OF COMPUTERS AND PROGRAMMING LANGUAGES,11 CLASSES AND DATA ABSTRACTION
+Introduction,11 CLASSES AND DATA ABSTRACTION
+The Language of a Computer,11 CLASSES AND DATA ABSTRACTION
+Processing a C++ Program,11 CLASSES AND DATA ABSTRACTION
+1 AN OVERVIEW OF COMPUTERS AND PROGRAMMING LANGUAGES,Classes
+Introduction,Classes
+Processing a C++ Program,Classes
+Programming with the Problem Analysis–Coding–Execution Cycle,Classes
+1 AN OVERVIEW OF COMPUTERS AND PROGRAMMING LANGUAGES,Unified Modeling Language Class Diagrams
+Object-Oriented Programming,Unified Modeling Language Class Diagrams
+Programming with the Problem Analysis–Coding–Execution Cycle,Variable (Object) Declaration
+Object-Oriented Programming,Variable (Object) Declaration
+Elements of a Computer System,Accessing Class Members
+Central Processing Unit and Main Memory,Accessing Class Members
+Software,Accessing Class Members
+The Language of a Computer,Accessing Class Members
+Processing a C++ Program,Accessing Class Members
+1 AN OVERVIEW OF COMPUTERS AND PROGRAMMING LANGUAGES,Built-in Operations on Classes
+Processing a C++ Program,Built-in Operations on Classes
+Programming with the Problem Analysis–Coding–Execution Cycle,Built-in Operations on Classes
+Elements of a Computer System,Assignment Operator and Classes
+Central Processing Unit and Main Memory,Assignment Operator and Classes
+Software,Assignment Operator and Classes
+The Language of a Computer,Assignment Operator and Classes
+Object-Oriented Programming,Assignment Operator and Classes
+Elements of a Computer System,Class Scope
+Central Processing Unit and Main Memory,Class Scope
+Software,Class Scope
+The Language of a Computer,Class Scope
+Processing a C++ Program,Class Scope
+Object-Oriented Programming,Functions and Classes
+ANSI/ISO Standard C++,Functions and Classes
+The Language of a Computer,Reference Parameters and Class Objects (Variables)
+Processing a C++ Program,Reference Parameters and Class Objects (Variables)
+Object-Oriented Programming,Implementation of Member Functions
+Programming with the Problem Analysis–Coding–Execution Cycle,Implementation of Member Functions
+Object-Oriented Programming,Accessor and Mutator Functions
+Programming with the Problem Analysis–Coding–Execution Cycle,Accessor and Mutator Functions
+The Language of a Computer,Order of public and private Members of a Class
+Processing a C++ Program,Order of public and private Members of a Class
+Processing a C++ Program,Constructors
+Object-Oriented Programming,Constructors
+The Language of a Computer,Invoking a Constructor with Parameters
+Processing a C++ Program,Invoking a Constructor with Parameters
+Elements of a Computer System,Constructors and Default Parameters
+Central Processing Unit and Main Memory,Constructors and Default Parameters
+Software,Constructors and Default Parameters
+The Language of a Computer,Constructors and Default Parameters
+Processing a C++ Program,Constructors and Default Parameters
+Processing a C++ Program,Classes and Constructors: A Precaution
+Object-Oriented Programming,Classes and Constructors: A Precaution
+Elements of a Computer System,Arrays of Class Objects (Variables) and Constructors
+Central Processing Unit and Main Memory,Arrays of Class Objects (Variables) and Constructors
+Software,Arrays of Class Objects (Variables) and Constructors
+The Language of a Computer,Arrays of Class Objects (Variables) and Constructors
+Processing a C++ Program,Arrays of Class Objects (Variables) and Constructors
+The Language of a Computer,Destructors
+Processing a C++ Program,Destructors
+A Brief Overview of the History of Computers,"Data Abstraction, Classes, and Abstract Data Types"
+Elements of a Computer System,"Data Abstraction, Classes, and Abstract Data Types"
+The Language of a Computer,"Data Abstraction, Classes, and Abstract Data Types"
+Processing a C++ Program,"Data Abstraction, Classes, and Abstract Data Types"
+1 AN OVERVIEW OF COMPUTERS AND PROGRAMMING LANGUAGES,A struct Versus a class
+Processing a C++ Program,A struct Versus a class
+Object-Oriented Programming,A struct Versus a class
+ANSI/ISO Standard C++,A struct Versus a class
+Processing a C++ Program,Information Hiding
+Object-Oriented Programming,Information Hiding
+Processing a C++ Program,Executable Code
+Object-Oriented Programming,Executable Code
+Processing a C++ Program,Programming Example: Candy Machine
+Programming with the Problem Analysis–Coding–Execution Cycle,Programming Example: Candy Machine
+The Language of a Computer,Quick Review
+Object-Oriented Programming,Quick Review
+Elements of a Computer System,Exercises
+The Language of a Computer,Exercises
+Processing a C++ Program,Exercises
+Processing a C++ Program,Programming Exercises
+Structured Programming,Programming Exercises
+Object-Oriented Programming,12 INHERITANCE AND COMPOSITION
+Object-Oriented Programming,Inheritance
+Programming with the Problem Analysis–Coding–Execution Cycle,Inheritance
+Object-Oriented Programming,Redefining (Overriding) Member Functions of the Base Class
+ANSI/ISO Standard C++,Redefining (Overriding) Member Functions of the Base Class
+Object-Oriented Programming,Constructors of Derived and Base Classes
+1 AN OVERVIEW OF COMPUTERS AND PROGRAMMING LANGUAGES,Destructors in a Derived Class
+Object-Oriented Programming,Destructors in a Derived Class
+The Language of a Computer,Multiple Inclusions of a Header File
+Processing a C++ Program,Multiple Inclusions of a Header File
+A Brief Overview of the History of Computers,C++ Stream Classes
+Elements of a Computer System,C++ Stream Classes
+Central Processing Unit and Main Memory,C++ Stream Classes
+Input /Output Devices,C++ Stream Classes
+The Language of a Computer,C++ Stream Classes
+Processing a C++ Program,C++ Stream Classes
+The Evolution of Programming Languages,"Inheritance as public, protected, or private"
+Object-Oriented Programming,"Inheritance as public, protected, or private"
+Elements of a Computer System,Composition (Aggregation)
+The Language of a Computer,Composition (Aggregation)
+Processing a C++ Program,Composition (Aggregation)
+Structured Programming,Object-Oriented Design (OOD) and Object-Oriented Programming (OOP)
+Object-Oriented Programming,Object-Oriented Design (OOD) and Object-Oriented Programming (OOP)
+Programming with the Problem Analysis–Coding–Execution Cycle,"Identifying Classes, Objects, and Operations"
+Object-Oriented Programming,"Identifying Classes, Objects, and Operations"
+1 AN OVERVIEW OF COMPUTERS AND PROGRAMMING LANGUAGES,Programming Example: Grade Report
+Object-Oriented Programming,Programming Example: Grade Report
+Processing a C++ Program,Programming Example: Grade Report
+Object-Oriented Programming,Quick Review
+Elements of a Computer System,Exercises
+Central Processing Unit and Main Memory,Exercises
+Software,Exercises
+The Language of a Computer,Exercises
+Processing a C++ Program,Exercises
+Object-Oriented Programming,Exercises
+Elements of a Computer System,Programming Exercises
+Central Processing Unit and Main Memory,Programming Exercises
+Software,Programming Exercises
+The Language of a Computer,Programming Exercises
+Processing a C++ Program,Programming Exercises
+1 AN OVERVIEW OF COMPUTERS AND PROGRAMMING LANGUAGES,"13 POINTERS, CLASSES, VIRTUAL FUNCTIONS, ABSTRACT CLASSES, AND LISTS"
+Introduction,"13 POINTERS, CLASSES, VIRTUAL FUNCTIONS, ABSTRACT CLASSES, AND LISTS"
+The Language of a Computer,"13 POINTERS, CLASSES, VIRTUAL FUNCTIONS, ABSTRACT CLASSES, AND LISTS"
+The Language of a Computer,Pointer Data Type and Pointer Variables
+Processing a C++ Program,Pointer Data Type and Pointer Variables
+The Language of a Computer,Declaring Pointer Variables
+Processing a C++ Program,Declaring Pointer Variables
+The Language of a Computer,Address of Operator (&)
+Processing a C++ Program,Address of Operator (&)
+The Language of a Computer,Dereferencing Operator (*)
+Processing a C++ Program,Dereferencing Operator (*)
+Elements of a Computer System,"Classes, Structs, and Pointer Variables"
+Central Processing Unit and Main Memory,"Classes, Structs, and Pointer Variables"
+Software,"Classes, Structs, and Pointer Variables"
+The Language of a Computer,"Classes, Structs, and Pointer Variables"
+Processing a C++ Program,"Classes, Structs, and Pointer Variables"
+The Language of a Computer,Initializing Pointer Variables
+Processing a C++ Program,Initializing Pointer Variables
+Processing a C++ Program,Dynamic Variables
+Programming with the Problem Analysis–Coding–Execution Cycle,Dynamic Variables
+Structured Programming,Dynamic Variables
+Object-Oriented Programming,Dynamic Variables
+ANSI/ISO Standard C++,Dynamic Variables
+The Language of a Computer,Operator new
+Processing a C++ Program,Operator new
+The Language of a Computer,Operator delete
+Processing a C++ Program,Operator delete
+Processing a C++ Program,Operations on Pointer Variables
+Programming with the Problem Analysis–Coding–Execution Cycle,Operations on Pointer Variables
+Processing a C++ Program,Dynamic Arrays
+Structured Programming,Dynamic Arrays
+The Language of a Computer,Functions and Pointers
+Processing a C++ Program,Functions and Pointers
+Elements of a Computer System,Dynamic Two-Dimensional Arrays
+Central Processing Unit and Main Memory,Dynamic Two-Dimensional Arrays
+Software,Dynamic Two-Dimensional Arrays
+The Language of a Computer,Dynamic Two-Dimensional Arrays
+Elements of a Computer System,Shallow versus Deep Copy and Pointers
+Central Processing Unit and Main Memory,Shallow versus Deep Copy and Pointers
+Software,Shallow versus Deep Copy and Pointers
+The Language of a Computer,Shallow versus Deep Copy and Pointers
+Elements of a Computer System,Classes and Pointers: Some Peculiarities
+Central Processing Unit and Main Memory,Classes and Pointers: Some Peculiarities
+Software,Classes and Pointers: Some Peculiarities
+The Language of a Computer,Classes and Pointers: Some Peculiarities
+Processing a C++ Program,Classes and Pointers: Some Peculiarities
+Object-Oriented Programming,Classes and Pointers: Some Peculiarities
+Elements of a Computer System,Destructor
+Central Processing Unit and Main Memory,Destructor
+Software,Destructor
+The Language of a Computer,Destructor
+Processing a C++ Program,Destructor
+Elements of a Computer System,Assignment Operator
+Central Processing Unit and Main Memory,Assignment Operator
+Software,Assignment Operator
+The Language of a Computer,Assignment Operator
+Processing a C++ Program,Assignment Operator
+Elements of a Computer System,Copy Constructor
+Central Processing Unit and Main Memory,Copy Constructor
+Software,Copy Constructor
+The Language of a Computer,Copy Constructor
+Object-Oriented Programming,"Inheritance, Pointers, and Virtual Functions"
+Processing a C++ Program,"Inheritance, Pointers, and Virtual Functions"
+Object-Oriented Programming,Classes and Virtual Destructors
+ANSI/ISO Standard C++,Classes and Virtual Destructors
+Object-Oriented Programming,Abstract Classes and Pure Virtual Functions
+ANSI/ISO Standard C++,Abstract Classes and Pure Virtual Functions
+Elements of a Computer System,Array Based Lists
+Central Processing Unit and Main Memory,Array Based Lists
+Software,Array Based Lists
+The Language of a Computer,Array Based Lists
+The Language of a Computer,Unordered Lists
+Processing a C++ Program,Unordered Lists
+The Language of a Computer,Ordered Lists
+Processing a C++ Program,Ordered Lists
+Elements of a Computer System,Address of Operator and Classes
+Central Processing Unit and Main Memory,Address of Operator and Classes
+Software,Address of Operator and Classes
+The Language of a Computer,Address of Operator and Classes
+Processing a C++ Program,Address of Operator and Classes
+The Language of a Computer,Quick Review
+Processing a C++ Program,Quick Review
+The Language of a Computer,Exercises
+Processing a C++ Program,Exercises
+Elements of a Computer System,Programming Exercises
+Central Processing Unit and Main Memory,Programming Exercises
+Software,Programming Exercises
+The Language of a Computer,Programming Exercises
+Processing a C++ Program,Programming Exercises
+1 AN OVERVIEW OF COMPUTERS AND PROGRAMMING LANGUAGES,14 OVERLOADING AND TEMPLATES
+Introduction,14 OVERLOADING AND TEMPLATES
+The Language of a Computer,14 OVERLOADING AND TEMPLATES
+A Brief Overview of the History of Computers,Why Operator Overloading Is Needed
+Elements of a Computer System,Why Operator Overloading Is Needed
+The Language of a Computer,Why Operator Overloading Is Needed
+Processing a C++ Program,Why Operator Overloading Is Needed
+The Language of a Computer,Operator Overloading
+Processing a C++ Program,Operator Overloading
+The Language of a Computer,Syntax for Operator Functions
+Processing a C++ Program,Syntax for Operator Functions
+The Language of a Computer,Overloading an Operator: Some Restrictions
+Processing a C++ Program,Overloading an Operator: Some Restrictions
+The Language of a Computer,Pointer this
+Object-Oriented Programming,Pointer this
+Elements of a Computer System,Friend Functions of Classes
+The Language of a Computer,Friend Functions of Classes
+Processing a C++ Program,Friend Functions of Classes
+The Language of a Computer,Operator Functions as Member Functions and Nonmember Functions
+Processing a C++ Program,Operator Functions as Member Functions and Nonmember Functions
+Object-Oriented Programming,Operator Functions as Member Functions and Nonmember Functions
+A Brief Overview of the History of Computers,Overloading Binary Operators
+Elements of a Computer System,Overloading Binary Operators
+The Language of a Computer,Overloading Binary Operators
+Processing a C++ Program,Overloading Binary Operators
+The Language of a Computer,Overloading the Stream Insertion (<<) and Extraction (>>) Operators
+Processing a C++ Program,Overloading the Stream Insertion (<<) and Extraction (>>) Operators
+Elements of a Computer System,Overloading the Assignment Operator (=)
+Central Processing Unit and Main Memory,Overloading the Assignment Operator (=)
+Software,Overloading the Assignment Operator (=)
+The Language of a Computer,Overloading the Assignment Operator (=)
+The Language of a Computer,Overloading Unary Operators
+Processing a C++ Program,Overloading Unary Operators
+Elements of a Computer System,Operator Overloading: Member versus Nonmember
+Central Processing Unit and Main Memory,Operator Overloading: Member versus Nonmember
+Software,Operator Overloading: Member versus Nonmember
+The Language of a Computer,Operator Overloading: Member versus Nonmember
+Processing a C++ Program,Operator Overloading: Member versus Nonmember
+Object-Oriented Programming,Classes and Pointer Member Variables (Revisited)
+Processing a C++ Program,Classes and Pointer Member Variables (Revisited)
+The Language of a Computer,Operator Overloading: One Final Word
+Processing a C++ Program,Operator Overloading: One Final Word
+Object-Oriented Programming,Operator Overloading: One Final Word
+ANSI/ISO Standard C++,Operator Overloading: One Final Word
+Elements of a Computer System,Programming Example: ClockType
+Central Processing Unit and Main Memory,Programming Example: ClockType
+Input /Output Devices,Programming Example: ClockType
+Software,Programming Example: ClockType
+The Language of a Computer,Programming Example: ClockType
+Processing a C++ Program,Programming Example: ClockType
+The Language of a Computer,Programming Example: Complex Numbers
+Processing a C++ Program,Programming Example: Complex Numbers
+Elements of a Computer System,Programming Example: newString
+The Language of a Computer,Programming Example: newString
+Processing a C++ Program,Programming Example: newString
+Processing a C++ Program,Function Overloading
+The Language of a Computer,Templates
+Processing a C++ Program,Templates
+The Language of a Computer,Function Templates
+Processing a C++ Program,Function Templates
+The Evolution of Programming Languages,Class Templates
+Object-Oriented Programming,Class Templates
+ANSI/ISO Standard C++,Class Templates
+1 AN OVERVIEW OF COMPUTERS AND PROGRAMMING LANGUAGES,Array-Based Lists (Revisited)
+Processing a C++ Program,Array-Based Lists (Revisited)
+Programming with the Problem Analysis–Coding–Execution Cycle,Array-Based Lists (Revisited)
+Structured Programming,Array-Based Lists (Revisited)
+Object-Oriented Programming,Array-Based Lists (Revisited)
+ANSI/ISO Standard C++,Array-Based Lists (Revisited)
+The Language of a Computer,Quick Review
+Processing a C++ Program,Quick Review
+The Language of a Computer,Exercises
+Processing a C++ Program,Exercises
+Processing a C++ Program,Programming Exercises
+The Language of a Computer,Programming Exercises
+The Evolution of Programming Languages,Programming Exercises
+Processing a C++ Program,15 EXCEPTION HANDLING
+ANSI/ISO Standard C++,15 EXCEPTION HANDLING
+Processing a C++ Program,Handling Exceptions within a Program
+Structured Programming,Handling Exceptions within a Program
+The Language of a Computer,try/catch Block
+Processing a C++ Program,try/catch Block
+Processing a C++ Program,Using C++ Exception Classes
+Programming with the Problem Analysis–Coding–Execution Cycle,Using C++ Exception Classes
+The Evolution of Programming Languages,Creating Your Own Exception Classes
+Processing a C++ Program,Creating Your Own Exception Classes
+The Language of a Computer,Rethrowing and Throwing an Exception
+Processing a C++ Program,Rethrowing and Throwing an Exception
+The Language of a Computer,Terminate the Program
+Processing a C++ Program,Terminate the Program
+Processing a C++ Program,Fix the Error and Continue
+The Language of a Computer,Log the Error and Continue
+Processing a C++ Program,Log the Error and Continue
+Processing a C++ Program,Stack Unwinding
+Structured Programming,Stack Unwinding
+The Language of a Computer,Quick Review
+Processing a C++ Program,Quick Review
+Processing a C++ Program,Exercises
+Programming with the Problem Analysis–Coding–Execution Cycle,Exercises
+Elements of a Computer System,Programming Exercises
+The Language of a Computer,Programming Exercises
+1 AN OVERVIEW OF COMPUTERS AND PROGRAMMING LANGUAGES,16 RECURSION
+Processing a C++ Program,16 RECURSION
+The Language of a Computer,Recursive Definitions
+Processing a C++ Program,Recursive Definitions
+The Language of a Computer,Direct and Indirect Recursion
+Processing a C++ Program,Direct and Indirect Recursion
+The Language of a Computer,Infinite Recursion
+Processing a C++ Program,Infinite Recursion
+Processing a C++ Program,Problem Solving Using Recursion
+Programming with the Problem Analysis–Coding–Execution Cycle,Problem Solving Using Recursion
+Processing a C++ Program,Recursion or Iteration?
+Structured Programming,Recursion or Iteration?
+The Language of a Computer,Programming Example: Converting a Number from Binary to Decimal
+The Language of a Computer,Programming Example: Converting a Number from Decimal to Binary
+Processing a C++ Program,Programming Example: Converting a Number from Decimal to Binary
+The Language of a Computer,Quick Review
+Processing a C++ Program,Quick Review
+Programming with the Problem Analysis–Coding–Execution Cycle,Quick Review
+The Language of a Computer,Exercises
+Processing a C++ Program,Exercises
+The Language of a Computer,Programming Exercises
+Processing a C++ Program,Programming Exercises
+1 AN OVERVIEW OF COMPUTERS AND PROGRAMMING LANGUAGES,17 LINKED LISTS
+Processing a C++ Program,17 LINKED LISTS
+Elements of a Computer System,Linked Lists
+Central Processing Unit and Main Memory,Linked Lists
+Software,Linked Lists
+The Language of a Computer,Linked Lists
+The Language of a Computer,Linked Lists: Some Properties
+Processing a C++ Program,Linked Lists: Some Properties
+Processing a C++ Program,Deletion
+Structured Programming,Deletion
+A Brief Overview of the History of Computers,Building a Linked List
+Elements of a Computer System,Building a Linked List
+Central Processing Unit and Main Memory,Building a Linked List
+Software,Building a Linked List
+The Language of a Computer,Building a Linked List
+The Language of a Computer,Linked List as an ADT
+Processing a C++ Program,Linked List as an ADT
+Elements of a Computer System,Structure of Linked List Nodes
+Central Processing Unit and Main Memory,Structure of Linked List Nodes
+Software,Structure of Linked List Nodes
+The Language of a Computer,Structure of Linked List Nodes
+Elements of a Computer System,Member Variables of the class linkedListType
+Central Processing Unit and Main Memory,Member Variables of the class linkedListType
+Software,Member Variables of the class linkedListType
+The Language of a Computer,Member Variables of the class linkedListType
+The Language of a Computer,Linked List Iterators
+Processing a C++ Program,Linked List Iterators
+The Language of a Computer,Print the List
+Processing a C++ Program,Print the List
+Elements of a Computer System,Retrieve the Data of the Last Node
+Central Processing Unit and Main Memory,Retrieve the Data of the Last Node
+Software,Retrieve the Data of the Last Node
+The Language of a Computer,Retrieve the Data of the Last Node
+Processing a C++ Program,Retrieve the Data of the Last Node
+Processing a C++ Program,Begin and End
+Programming with the Problem Analysis–Coding–Execution Cycle,Begin and End
+Structured Programming,Begin and End
+Object-Oriented Programming,Begin and End
+ANSI/ISO Standard C++,Begin and End
+The Language of a Computer,Copy the List
+Processing a C++ Program,Copy the List
+The Language of a Computer,Destructor
+Processing a C++ Program,Destructor
+Object-Oriented Programming,Destructor
+ANSI/ISO Standard C++,Destructor
+The Language of a Computer,Copy Constructor
+Processing a C++ Program,Copy Constructor
+Object-Oriented Programming,Copy Constructor
+The Language of a Computer,Overloading the Assignment Operator
+Processing a C++ Program,Overloading the Assignment Operator
+The Language of a Computer,Unordered Linked Lists
+Processing a C++ Program,Unordered Linked Lists
+The Language of a Computer,Search the List
+Processing a C++ Program,Search the List
+Elements of a Computer System,Insert the First Node
+Central Processing Unit and Main Memory,Insert the First Node
+Elements of a Computer System,Insert the Last Node
+Central Processing Unit and Main Memory,Insert the Last Node
+Software,Insert the Last Node
+The Language of a Computer,Insert the Last Node
+The Language of a Computer,Header File of the Unordered Linked List
+Processing a C++ Program,Header File of the Unordered Linked List
+Elements of a Computer System,Ordered Linked Lists
+Central Processing Unit and Main Memory,Ordered Linked Lists
+Software,Ordered Linked Lists
+The Language of a Computer,Ordered Linked Lists
+Processing a C++ Program,Ordered Linked Lists
+A Brief Overview of the History of Computers,Search the List
+Elements of a Computer System,Search the List
+Central Processing Unit and Main Memory,Search the List
+Input /Output Devices,Search the List
+Software,Search the List
+The Language of a Computer,Search the List
+Processing a C++ Program,Search the List
+Processing a C++ Program,Insert First and Insert Last
+Structured Programming,Insert First and Insert Last
+Elements of a Computer System,Delete a Node
+Central Processing Unit and Main Memory,Delete a Node
+Software,Delete a Node
+The Language of a Computer,Delete a Node
+1 AN OVERVIEW OF COMPUTERS AND PROGRAMMING LANGUAGES,Header File of the Ordered Linked List
+Processing a C++ Program,Header File of the Ordered Linked List
+Programming with the Problem Analysis–Coding–Execution Cycle,Header File of the Ordered Linked List
+Structured Programming,Header File of the Ordered Linked List
+Object-Oriented Programming,Header File of the Ordered Linked List
+ANSI/ISO Standard C++,Header File of the Ordered Linked List
+Processing a C++ Program,Print a Linked List in Reverse Order (Recursion Revisited)
+Structured Programming,Print a Linked List in Reverse Order (Recursion Revisited)
+Processing a C++ Program,printListReverse
+Programming with the Problem Analysis–Coding–Execution Cycle,printListReverse
+A Brief Overview of the History of Computers,Doubly Linked Lists
+Elements of a Computer System,Doubly Linked Lists
+Central Processing Unit and Main Memory,Doubly Linked Lists
+Input /Output Devices,Doubly Linked Lists
+Software,Doubly Linked Lists
+The Language of a Computer,Doubly Linked Lists
+The Language of a Computer,Destroy the List
+Processing a C++ Program,Destroy the List
+The Language of a Computer,Print the List
+Processing a C++ Program,Print the List
+Processing a C++ Program,Reverse Print the List
+Structured Programming,Reverse Print the List
+The Language of a Computer,Search the List
+Processing a C++ Program,Search the List
+Elements of a Computer System,First and Last Elements
+Central Processing Unit and Main Memory,First and Last Elements
+Software,First and Last Elements
+The Language of a Computer,First and Last Elements
+Elements of a Computer System,Circular Linked Lists
+Central Processing Unit and Main Memory,Circular Linked Lists
+Software,Circular Linked Lists
+The Language of a Computer,Circular Linked Lists
+Processing a C++ Program,Circular Linked Lists
+Object-Oriented Programming,Programming Example: Video Store
+Programming with the Problem Analysis–Coding–Execution Cycle,Programming Example: Video Store
+Elements of a Computer System,Quick Review
+Central Processing Unit and Main Memory,Quick Review
+Software,Quick Review
+A Brief Overview of the History of Computers,Exercises
+Elements of a Computer System,Exercises
+Central Processing Unit and Main Memory,Exercises
+Software,Exercises
+The Language of a Computer,Exercises
+Processing a C++ Program,Exercises
+Elements of a Computer System,Programming Exercises
+Central Processing Unit and Main Memory,Programming Exercises
+Software,Programming Exercises
+The Language of a Computer,Programming Exercises
+Processing a C++ Program,Programming Exercises
+1 AN OVERVIEW OF COMPUTERS AND PROGRAMMING LANGUAGES,18 STACKS AND QUEUES
+Processing a C++ Program,18 STACKS AND QUEUES
+Elements of a Computer System,Stacks
+Central Processing Unit and Main Memory,Stacks
+Software,Stacks
+The Language of a Computer,Stacks
+The Language of a Computer,Stack Operations
+Processing a C++ Program,Stack Operations
+The Language of a Computer,Implementation of Stacks as Arrays
+Processing a C++ Program,Implementation of Stacks as Arrays
+Elements of a Computer System,Initialize Stack
+Central Processing Unit and Main Memory,Initialize Stack
+Software,Initialize Stack
+The Language of a Computer,Initialize Stack
+Elements of a Computer System,Push
+Central Processing Unit and Main Memory,Push
+Software,Push
+The Language of a Computer,Push
+The Language of a Computer,Return the Top Element
+Processing a C++ Program,Return the Top Element
+The Language of a Computer,Copy Stack
+Processing a C++ Program,Copy Stack
+Central Processing Unit and Main Memory,Constructor and Destructor
+Software,Constructor and Destructor
+The Language of a Computer,Constructor and Destructor
+Processing a C++ Program,Constructor and Destructor
+The Language of a Computer,Copy Constructor
+Processing a C++ Program,Copy Constructor
+Object-Oriented Programming,Copy Constructor
+ANSI/ISO Standard C++,Copy Constructor
+Processing a C++ Program,Overloading the Assignment Operator (=)
+Object-Oriented Programming,Overloading the Assignment Operator (=)
+ANSI/ISO Standard C++,Overloading the Assignment Operator (=)
+Processing a C++ Program,Stack Header File
+Programming with the Problem Analysis–Coding–Execution Cycle,Stack Header File
+Processing a C++ Program,Programming Example: Highest GPA
+Programming with the Problem Analysis–Coding–Execution Cycle,Programming Example: Highest GPA
+A Brief Overview of the History of Computers,Linked Implementation of Stacks
+Elements of a Computer System,Linked Implementation of Stacks
+Central Processing Unit and Main Memory,Linked Implementation of Stacks
+Input /Output Devices,Linked Implementation of Stacks
+Software,Linked Implementation of Stacks
+The Language of a Computer,Linked Implementation of Stacks
+Processing a C++ Program,Linked Implementation of Stacks
+The Language of a Computer,Default Constructor
+Processing a C++ Program,Default Constructor
+Elements of a Computer System,Empty Stack and Full Stack
+Central Processing Unit and Main Memory,Empty Stack and Full Stack
+Software,Empty Stack and Full Stack
+The Language of a Computer,Empty Stack and Full Stack
+The Language of a Computer,Initialize Stack
+Processing a C++ Program,Initialize Stack
+Elements of a Computer System,Push
+Central Processing Unit and Main Memory,Push
+Software,Push
+The Language of a Computer,Push
+A Brief Overview of the History of Computers,Copy Stack
+Elements of a Computer System,Copy Stack
+Central Processing Unit and Main Memory,Copy Stack
+Input /Output Devices,Copy Stack
+Software,Copy Stack
+The Language of a Computer,Copy Stack
+Processing a C++ Program,Copy Stack
+Programming with the Problem Analysis–Coding–Execution Cycle,Copy Stack
+Processing a C++ Program,Constructors and Destructors
+Programming with the Problem Analysis–Coding–Execution Cycle,Constructors and Destructors
+Object-Oriented Programming,Constructors and Destructors
+ANSI/ISO Standard C++,Constructors and Destructors
+Elements of a Computer System,Stack as Derived from the class unorderedLinkedList
+Central Processing Unit and Main Memory,Stack as Derived from the class unorderedLinkedList
+Software,Stack as Derived from the class unorderedLinkedList
+The Language of a Computer,Stack as Derived from the class unorderedLinkedList
+Processing a C++ Program,Stack as Derived from the class unorderedLinkedList
+The Language of a Computer,Application of Stacks: Postfix Expressions Calculator
+Processing a C++ Program,Application of Stacks: Postfix Expressions Calculator
+The Language of a Computer,Main Algorithm
+Processing a C++ Program,Main Algorithm
+The Language of a Computer,Function evaluateExpression
+Processing a C++ Program,Function evaluateExpression
+Structured Programming,Function evaluateExpression
+The Language of a Computer,Function evaluateOpr
+Processing a C++ Program,Function evaluateOpr
+The Language of a Computer,Function discardExp
+Processing a C++ Program,Function discardExp
+Processing a C++ Program,Function printResult
+Structured Programming,Function printResult
+Elements of a Computer System,Removing Recursion: Nonrecursive Algorithm to Print a Linked List Backward
+Central Processing Unit and Main Memory,Removing Recursion: Nonrecursive Algorithm to Print a Linked List Backward
+Software,Removing Recursion: Nonrecursive Algorithm to Print a Linked List Backward
+The Language of a Computer,Removing Recursion: Nonrecursive Algorithm to Print a Linked List Backward
+Elements of a Computer System,Queues
+Central Processing Unit and Main Memory,Queues
+Software,Queues
+The Language of a Computer,Queues
+Elements of a Computer System,Queue Operations
+Central Processing Unit and Main Memory,Queue Operations
+Software,Queue Operations
+The Language of a Computer,Queue Operations
+The Language of a Computer,Implementation of Queues as Arrays
+Processing a C++ Program,Implementation of Queues as Arrays
+The Language of a Computer,Linked Implementation of Queues
+Processing a C++ Program,Linked Implementation of Queues
+Chapter 17,Queue Derived from the class unorderedLinkedListType
+A Brief Overview of the History of Computers,Application of Queues: Simulation
+Elements of a Computer System,Application of Queues: Simulation
+Central Processing Unit and Main Memory,Application of Queues: Simulation
+Input /Output Devices,Application of Queues: Simulation
+Software,Application of Queues: Simulation
+The Language of a Computer,Application of Queues: Simulation
+Processing a C++ Program,Application of Queues: Simulation
+Elements of a Computer System,Designing a Queuing System
+Central Processing Unit and Main Memory,Designing a Queuing System
+Software,Designing a Queuing System
+Software,Customer
+The Language of a Computer,Customer
+Elements of a Computer System,Server
+Central Processing Unit and Main Memory,Server
+Software,Server
+The Language of a Computer,Server
+Processing a C++ Program,Server
+Elements of a Computer System,Server List
+Central Processing Unit and Main Memory,Server List
+Software,Server List
+The Language of a Computer,Server List
+The Language of a Computer,Waiting Customers Queue
+Processing a C++ Program,Waiting Customers Queue
+Processing a C++ Program,Main Program
+Programming with the Problem Analysis–Coding–Execution Cycle,Main Program
+A Brief Overview of the History of Computers,Quick Review
+Elements of a Computer System,Quick Review
+The Language of a Computer,Quick Review
+Processing a C++ Program,Quick Review
+Elements of a Computer System,Programming Exercises
+Central Processing Unit and Main Memory,Programming Exercises
+Software,Programming Exercises
+The Language of a Computer,Programming Exercises
+Processing a C++ Program,Programming Exercises
+1 AN OVERVIEW OF COMPUTERS AND PROGRAMMING LANGUAGES,19 SEARCHING AND SORTING ALGORITHMS
+Introduction,Searching and Sorting Algorithms
+Processing a C++ Program,Searching and Sorting Algorithms
+Structured Programming,Searching and Sorting Algorithms
+The Language of a Computer,Search Algorithms
+Processing a C++ Program,Search Algorithms
+Processing a C++ Program,Sequential Search
+Structured Programming,Sequential Search
+Elements of a Computer System,Binary Search
+Central Processing Unit and Main Memory,Binary Search
+Software,Binary Search
+The Language of a Computer,Binary Search
+A Brief Overview of the History of Computers,Performance of Binary Search
+Elements of a Computer System,Performance of Binary Search
+Central Processing Unit and Main Memory,Performance of Binary Search
+Software,Performance of Binary Search
+A Brief Overview of the History of Computers,Binary Search Algorithm and the class orderedArrayListType
+Elements of a Computer System,Binary Search Algorithm and the class orderedArrayListType
+Central Processing Unit and Main Memory,Binary Search Algorithm and the class orderedArrayListType
+Input /Output Devices,Binary Search Algorithm and the class orderedArrayListType
+Software,Binary Search Algorithm and the class orderedArrayListType
+The Language of a Computer,Binary Search Algorithm and the class orderedArrayListType
+Processing a C++ Program,Binary Search Algorithm and the class orderedArrayListType
+Programming with the Problem Analysis–Coding–Execution Cycle,Binary Search Algorithm and the class orderedArrayListType
+Processing a C++ Program,Asymptotic Notation: Big-O Notation
+Programming with the Problem Analysis–Coding–Execution Cycle,Asymptotic Notation: Big-O Notation
+A Brief Overview of the History of Computers,Lower Bound on Comparison-Based Search Algorithms
+Elements of a Computer System,Lower Bound on Comparison-Based Search Algorithms
+Central Processing Unit and Main Memory,Lower Bound on Comparison-Based Search Algorithms
+Software,Lower Bound on Comparison-Based Search Algorithms
+The Language of a Computer,Lower Bound on Comparison-Based Search Algorithms
+The Language of a Computer,Sorting Algorithms
+Processing a C++ Program,Sorting Algorithms
+The Language of a Computer,Sorting a List: Bubble Sort
+Processing a C++ Program,Sorting a List: Bubble Sort
+Processing a C++ Program,Analysis: Bubble Sort
+Programming with the Problem Analysis–Coding–Execution Cycle,Analysis: Bubble Sort
+A Brief Overview of the History of Computers,Bubble Sort Algorithm and the class unorderedArrayListType
+Elements of a Computer System,Bubble Sort Algorithm and the class unorderedArrayListType
+Central Processing Unit and Main Memory,Bubble Sort Algorithm and the class unorderedArrayListType
+Input /Output Devices,Bubble Sort Algorithm and the class unorderedArrayListType
+Software,Bubble Sort Algorithm and the class unorderedArrayListType
+The Language of a Computer,Bubble Sort Algorithm and the class unorderedArrayListType
+Processing a C++ Program,Bubble Sort Algorithm and the class unorderedArrayListType
+Programming with the Problem Analysis–Coding–Execution Cycle,Bubble Sort Algorithm and the class unorderedArrayListType
+Structured Programming,Bubble Sort Algorithm and the class unorderedArrayListType
+Processing a C++ Program,Selection Sort: Array-Based Lists
+Structured Programming,Selection Sort: Array-Based Lists
+Processing a C++ Program,Analysis: Selection Sort
+Structured Programming,Analysis: Selection Sort
+The Language of a Computer,Insertion Sort: Array-Based Lists
+Processing a C++ Program,Insertion Sort: Array-Based Lists
+Elements of a Computer System,Analysis: Insertion Sort
+Central Processing Unit and Main Memory,Analysis: Insertion Sort
+Software,Analysis: Insertion Sort
+The Language of a Computer,Analysis: Insertion Sort
+A Brief Overview of the History of Computers,Lower Bound on Comparison-Based Sort Algorithms
+Elements of a Computer System,Lower Bound on Comparison-Based Sort Algorithms
+Central Processing Unit and Main Memory,Lower Bound on Comparison-Based Sort Algorithms
+Input /Output Devices,Lower Bound on Comparison-Based Sort Algorithms
+Software,Lower Bound on Comparison-Based Sort Algorithms
+The Language of a Computer,Lower Bound on Comparison-Based Sort Algorithms
+Processing a C++ Program,Lower Bound on Comparison-Based Sort Algorithms
+Processing a C++ Program,Quick Sort: Array-Based Lists
+Structured Programming,Quick Sort: Array-Based Lists
+Processing a C++ Program,Analysis: Quick Sort
+Quick Review,Analysis: Quick Sort
+Processing a C++ Program,Merge Sort: Linked List-Based Lists
+Structured Programming,Merge Sort: Linked List-Based Lists
+Elements of a Computer System,Divide
+Central Processing Unit and Main Memory,Divide
+Software,Divide
+The Language of a Computer,Divide
+The Language of a Computer,Merge
+Processing a C++ Program,Merge
+Processing a C++ Program,Analysis: Merge Sort
+Structured Programming,Analysis: Merge Sort
+Processing a C++ Program,Programming Example: Election Results
+Programming with the Problem Analysis–Coding–Execution Cycle,Programming Example: Election Results
+The Language of a Computer,Exercises
+Processing a C++ Program,Exercises
+Processing a C++ Program,Programming Exercises
+Structured Programming,Programming Exercises
+1 AN OVERVIEW OF COMPUTERS AND PROGRAMMING LANGUAGES,20 BINARY TREES
+Introduction,Binary Trees
+The Language of a Computer,Binary Trees
+Binary Trees,Copy Tree
+Introduction,Binary Tree Traversal
+Processing a C++ Program,Binary Tree Traversal
+Structured Programming,Binary Tree Traversal
+Elements of a Computer System,Implementing Binary Trees
+Central Processing Unit and Main Memory,Implementing Binary Trees
+Software,Implementing Binary Trees
+The Language of a Computer,Implementing Binary Trees
+A Brief Overview of the History of Computers,Binary Search Trees
+Elements of a Computer System,Binary Search Trees
+Central Processing Unit and Main Memory,Binary Search Trees
+Input /Output Devices,Binary Search Trees
+Software,Binary Search Trees
+The Language of a Computer,Binary Search Trees
+A Brief Overview of the History of Computers,Binary Search Tree: Analysis
+Elements of a Computer System,Binary Search Tree: Analysis
+Central Processing Unit and Main Memory,Binary Search Tree: Analysis
+Software,Binary Search Tree: Analysis
+The Language of a Computer,Binary Search Tree: Analysis
+A Brief Overview of the History of Computers,Nonrecursive Binary Tree Traversal Algorithms
+Elements of a Computer System,Nonrecursive Binary Tree Traversal Algorithms
+Central Processing Unit and Main Memory,Nonrecursive Binary Tree Traversal Algorithms
+Input /Output Devices,Nonrecursive Binary Tree Traversal Algorithms
+Software,Nonrecursive Binary Tree Traversal Algorithms
+The Language of a Computer,Nonrecursive Binary Tree Traversal Algorithms
+Processing a C++ Program,Nonrecursive Binary Tree Traversal Algorithms
+A Brief Overview of the History of Computers,Nonrecursive Inorder Traversal
+Elements of a Computer System,Nonrecursive Inorder Traversal
+Central Processing Unit and Main Memory,Nonrecursive Inorder Traversal
+Input /Output Devices,Nonrecursive Inorder Traversal
+Software,Nonrecursive Inorder Traversal
+The Language of a Computer,Nonrecursive Inorder Traversal
+The Language of a Computer,Nonrecursive Preorder Traversal
+Processing a C++ Program,Nonrecursive Preorder Traversal
+Elements of a Computer System,Nonrecursive Postorder Traversal
+Central Processing Unit and Main Memory,Nonrecursive Postorder Traversal
+Software,Nonrecursive Postorder Traversal
+The Language of a Computer,Nonrecursive Postorder Traversal
+Processing a C++ Program,Binary Tree Traversal and Functions as Parameters
+Structured Programming,Binary Tree Traversal and Functions as Parameters
+A Brief Overview of the History of Computers,Programming Example: Video Store (Revisited)
+Elements of a Computer System,Programming Example: Video Store (Revisited)
+Central Processing Unit and Main Memory,Programming Example: Video Store (Revisited)
+Input /Output Devices,Programming Example: Video Store (Revisited)
+Software,Programming Example: Video Store (Revisited)
+The Language of a Computer,Programming Example: Video Store (Revisited)
+Processing a C++ Program,Programming Example: Video Store (Revisited)
+A Brief Overview of the History of Computers,Quick Review
+Elements of a Computer System,Quick Review
+Central Processing Unit and Main Memory,Quick Review
+Input /Output Devices,Quick Review
+Software,Quick Review
+The Language of a Computer,Quick Review
+Processing a C++ Program,Quick Review
+Introduction,Exercises
+Processing a C++ Program,Exercises
+Programming with the Problem Analysis–Coding–Execution Cycle,Exercises
+Elements of a Computer System,Programming Exercises
+Central Processing Unit and Main Memory,Programming Exercises
+Software,Programming Exercises
+The Language of a Computer,Programming Exercises
+Processing a C++ Program,Programming Exercises
+1 AN OVERVIEW OF COMPUTERS AND PROGRAMMING LANGUAGES,21 GRAPHS
+The Language of a Computer,Graph Definitions and Notations
+The Evolution of Programming Languages,Graph Definitions and Notations
+Processing a C++ Program,Graph Definitions and Notations
+A Brief Overview of the History of Computers,Adjacency Matrix
+Elements of a Computer System,Adjacency Matrix
+Central Processing Unit and Main Memory,Adjacency Matrix
+Input /Output Devices,Adjacency Matrix
+Software,Adjacency Matrix
+The Language of a Computer,Adjacency Matrix
+Processing a C++ Program,Adjacency Matrix
+A Brief Overview of the History of Computers,Adjacency Lists
+Elements of a Computer System,Adjacency Lists
+Central Processing Unit and Main Memory,Adjacency Lists
+Input /Output Devices,Adjacency Lists
+Software,Adjacency Lists
+The Language of a Computer,Adjacency Lists
+A Brief Overview of the History of Computers,Operations on Graphs
+Elements of a Computer System,Operations on Graphs
+Central Processing Unit and Main Memory,Operations on Graphs
+Input /Output Devices,Operations on Graphs
+Software,Operations on Graphs
+The Language of a Computer,Operations on Graphs
+A Brief Overview of the History of Computers,Graphs as ADTs
+Elements of a Computer System,Graphs as ADTs
+Central Processing Unit and Main Memory,Graphs as ADTs
+Software,Graphs as ADTs
+The Language of a Computer,Graphs as ADTs
+Processing a C++ Program,Graphs as ADTs
+Introduction,Graph Traversals
+Elements of a Computer System,Graph Traversals
+The Language of a Computer,Graph Traversals
+Elements of a Computer System,Depth First Traversal
+Central Processing Unit and Main Memory,Depth First Traversal
+Software,Depth First Traversal
+Elements of a Computer System,Breadth First Traversal
+Central Processing Unit and Main Memory,Breadth First Traversal
+Software,Breadth First Traversal
+A Brief Overview of the History of Computers,Shortest Path Algorithm
+Elements of a Computer System,Shortest Path Algorithm
+Central Processing Unit and Main Memory,Shortest Path Algorithm
+Software,Shortest Path Algorithm
+The Language of a Computer,Shortest Path Algorithm
+Processing a C++ Program,Shortest Path Algorithm
+Elements of a Computer System,Shortest Path
+Central Processing Unit and Main Memory,Shortest Path
+Software,Shortest Path
+The Language of a Computer,Shortest Path
+The Language of a Computer,Quick Review
+Processing a C++ Program,Quick Review
+The Language of a Computer,Exercises
+Processing a C++ Program,Exercises
+The Language of a Computer,Programming Exercises
+Processing a C++ Program,Programming Exercises
+1 AN OVERVIEW OF COMPUTERS AND PROGRAMMING LANGUAGES,22 STANDARD TEMPLATE LIBRARY (STL)
+Processing a C++ Program,22 STANDARD TEMPLATE LIBRARY (STL)
+The Language of a Computer,Components of the STL
+Processing a C++ Program,Components of the STL
+The Language of a Computer,Sequence Container: vector
+Processing a C++ Program,Sequence Container: vector
+Elements of a Computer System,Member Functions Common to All Containers
+Central Processing Unit and Main Memory,Member Functions Common to All Containers
+Software,Member Functions Common to All Containers
+The Language of a Computer,Member Functions Common to All Containers
+Elements of a Computer System,Member Functions Common to Sequence Containers
+Central Processing Unit and Main Memory,Member Functions Common to Sequence Containers
+Software,Member Functions Common to Sequence Containers
+The Language of a Computer,Member Functions Common to Sequence Containers
+Processing a C++ Program,Member Functions Common to Sequence Containers
+The Language of a Computer,The copy Algorithm
+Processing a C++ Program,The copy Algorithm
+A Brief Overview of the History of Computers,Sequence Container: deque
+Elements of a Computer System,Sequence Container: deque
+Central Processing Unit and Main Memory,Sequence Container: deque
+Software,Sequence Container: deque
+The Language of a Computer,Sequence Container: deque
+Processing a C++ Program,Sequence Container: deque
+The Language of a Computer,Sequence Container: list
+Processing a C++ Program,Sequence Container: list
+The Language of a Computer,Types of Iterators
+Processing a C++ Program,Types of Iterators
+The Language of a Computer,Stream Iterators
+Processing a C++ Program,Stream Iterators
+The Language of a Computer,Associative Containers
+Processing a C++ Program,Associative Containers
+Elements of a Computer System,Associative Containers: set and multiset
+The Language of a Computer,Associative Containers: set and multiset
+Elements of a Computer System,Declaring set or multiset Associative Containers
+Central Processing Unit and Main Memory,Declaring set or multiset Associative Containers
+Software,Declaring set or multiset Associative Containers
+The Language of a Computer,Declaring set or multiset Associative Containers
+Processing a C++ Program,Declaring set or multiset Associative Containers
+Elements of a Computer System,Item Insertion and Deletion from set/multiset
+Central Processing Unit and Main Memory,Item Insertion and Deletion from set/multiset
+Software,Item Insertion and Deletion from set/multiset
+The Language of a Computer,Item Insertion and Deletion from set/multiset
+The Language of a Computer,Container Adapters
+Processing a C++ Program,Container Adapters
+A Brief Overview of the History of Computers,Stack
+Elements of a Computer System,Stack
+Central Processing Unit and Main Memory,Stack
+Software,Stack
+The Language of a Computer,Stack
+Processing a C++ Program,Stack
+Elements of a Computer System,Queue
+Central Processing Unit and Main Memory,Queue
+Software,Queue
+The Language of a Computer,Queue
+A Brief Overview of the History of Computers,"Containers, Associated Header Files, and Iterator Support"
+Elements of a Computer System,"Containers, Associated Header Files, and Iterator Support"
+Central Processing Unit and Main Memory,"Containers, Associated Header Files, and Iterator Support"
+Input /Output Devices,"Containers, Associated Header Files, and Iterator Support"
+Software,"Containers, Associated Header Files, and Iterator Support"
+The Language of a Computer,"Containers, Associated Header Files, and Iterator Support"
+The Evolution of Programming Languages,"Containers, Associated Header Files, and Iterator Support"
+Processing a C++ Program,"Containers, Associated Header Files, and Iterator Support"
+Programming with the Problem Analysis–Coding–Execution Cycle,"Containers, Associated Header Files, and Iterator Support"
+A Brief Overview of the History of Computers,Algorithms
+Elements of a Computer System,Algorithms
+Central Processing Unit and Main Memory,Algorithms
+Input /Output Devices,Algorithms
+Software,Algorithms
+The Language of a Computer,Algorithms
+Processing a C++ Program,Algorithms
+The Language of a Computer,STL Algorithm Classification
+Processing a C++ Program,STL Algorithm Classification
+The Language of a Computer,Function Objects
+Processing a C++ Program,Function Objects
+The Language of a Computer,Insert Iterator
+Processing a C++ Program,Insert Iterator
+The Language of a Computer,STL Algorithms
+Processing a C++ Program,STL Algorithms
+The Language of a Computer,The Functions fill and fill_n
+Processing a C++ Program,The Functions fill and fill_n
+The Language of a Computer,The Functions generate and generate_n
+Processing a C++ Program,The Functions generate and generate_n
+The Language of a Computer,"The Functions find, find_if, find_end, and find_first_of"
+Processing a C++ Program,"The Functions find, find_if, find_end, and find_first_of"
+The Language of a Computer,"The Functions remove, remove_if, remove_copy, and remove_copy_if"
+Processing a C++ Program,"The Functions remove, remove_if, remove_copy, and remove_copy_if"
+The Language of a Computer,"The Functions replace, replace_if, replace_copy, and replace_copy_if"
+Processing a C++ Program,"The Functions replace, replace_if, replace_copy, and replace_copy_if"
+The Language of a Computer,"The Functions swap, iter_swap, and swap_ranges"
+Processing a C++ Program,"The Functions swap, iter_swap, and swap_ranges"
+The Language of a Computer,"The Functions search, search_n, sort, and binary_search"
+Processing a C++ Program,"The Functions search, search_n, sort, and binary_search"
+The Language of a Computer,"The Functions adjacent_find, merge, and inplace_merge"
+Processing a C++ Program,"The Functions adjacent_find, merge, and inplace_merge"
+The Language of a Computer,"The Functions reverse, reverse_copy, rotate, and rotate_copy"
+Processing a C++ Program,"The Functions reverse, reverse_copy, rotate, and rotate_copy"
+The Language of a Computer,"The Functions count, count_if, max, max_element, min, min_element, and random_shuffle"
+Processing a C++ Program,"The Functions count, count_if, max, max_element, min, min_element, and random_shuffle"
+The Language of a Computer,The Functions for_each and transform
+Processing a C++ Program,The Functions for_each and transform
+The Language of a Computer,"The Functions includes, set_intersection, set_union, set_difference, and set_symmetric_difference"
+Processing a C++ Program,"The Functions includes, set_intersection, set_union, set_difference, and set_symmetric_difference"
+The Language of a Computer,"The Functions accumulate, adjacent_difference, inner_product, and partial_sum"
+Processing a C++ Program,"The Functions accumulate, adjacent_difference, inner_product, and partial_sum"
+The Language of a Computer,Quick Review
+Processing a C++ Program,Quick Review
+A Brief Overview of the History of Computers,Exercises
+Elements of a Computer System,Exercises
+Central Processing Unit and Main Memory,Exercises
+Input /Output Devices,Exercises
+Software,Exercises
+The Language of a Computer,Exercises
+Processing a C++ Program,Exercises
+Programming with the Problem Analysis–Coding–Execution Cycle,Exercises
+Processing a C++ Program,Programming Exercises
+Structured Programming,Programming Exercises
+A Brief Overview of the History of Computers,ASCII (American Standard Code for Information Interchange)
+Elements of a Computer System,ASCII (American Standard Code for Information Interchange)
+The Language of a Computer,ASCII (American Standard Code for Information Interchange)
+The Evolution of Programming Languages,ASCII (American Standard Code for Information Interchange)
+The Language of a Computer,EBCDIC (Extended Binary Coded Decimal Interchange Code)
+The Evolution of Programming Languages,EBCDIC (Extended Binary Coded Decimal Interchange Code)
+The Language of a Computer,Converting a Base 10 Number to a Binary Number (Base 2)
+Processing a C++ Program,Converting a Base 10 Number to a Binary Number (Base 2)
+A Brief Overview of the History of Computers,Converting a Binary Number (Base 2) to Base 10
+Elements of a Computer System,Converting a Binary Number (Base 2) to Base 10
+Central Processing Unit and Main Memory,Converting a Binary Number (Base 2) to Base 10
+Input /Output Devices,Converting a Binary Number (Base 2) to Base 10
+Software,Converting a Binary Number (Base 2) to Base 10
+The Language of a Computer,Converting a Binary Number (Base 2) to Base 10
+The Language of a Computer,Converting a Binary Number (Base 2) to Octal (Base 8) and Hexadecimal (Base 16)
+Processing a C++ Program,Converting a Binary Number (Base 2) to Octal (Base 8) and Hexadecimal (Base 16)
+Processing a C++ Program,Binary Files
+The Language of a Computer,Binary Files
+Processing a C++ Program,Random File Access
+Structured Programming,Random File Access
+ANSI/ISO Standard C++,Naming Conventions of Header Files in ANSI/ISO Standard C++ and Standard C++
+Processing a C++ Program,Naming Conventions of Header Files in ANSI/ISO Standard C++ and Standard C++
+The Language of a Computer,Header File cassert (asserth)
+Processing a C++ Program,Header File cassert (asserth)
+The Language of a Computer,Header File cctype (ctypeh)
+Processing a C++ Program,Header File cctype (ctypeh)
+The Language of a Computer,Header File cfloat (floath)
+Processing a C++ Program,Header File cfloat (floath)
+The Language of a Computer,Header File climits (limitsh)
+Processing a C++ Program,Header File climits (limitsh)
+Introduction,Header File cmath (mathh)
+The Language of a Computer,Header File cmath (mathh)
+Processing a C++ Program,Header File cmath (mathh)
+The Language of a Computer,Random Number Generator
+Processing a C++ Program,Random Number Generator

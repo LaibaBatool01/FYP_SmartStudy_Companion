@@ -1,0 +1,38 @@
+prerequisite,topic
+A Brief Overview of the History of Computers,Object-Oriented Programming
+The Language of a Computer,Object-Oriented Programming
+The Evolution of Programming Languages,Object-Oriented Programming
+Processing a C++ Program,Object-Oriented Programming
+Programming with the Problem Analysis–Coding–Execution Cycle,Object-Oriented Programming
+Structured Programming,Object-Oriented Programming
+2 BASIC ELEMENTS OF C++,Allocating Memory with Constants and Variables
+Data Types,Allocating Memory with Constants and Variables
+Assignment Statement,Allocating Memory with Constants and Variables
+2 BASIC ELEMENTS OF C++,Declaring and Initializing Variables
+Data Types,Declaring and Initializing Variables
+Simple Data Types,Declaring and Initializing Variables
+Floating-Point Data Types,Declaring and Initializing Variables
+Assignment Statement,Declaring and Initializing Variables
+Data Types,Variable Initialization
+Assignment Statement,Variable Initialization
+Input,Variable Initialization
+A C++ Program,Using Predefined Functions in a Program
+The Basics of a C++ Program,Using Predefined Functions in a Program
+Data Types,Using Predefined Functions in a Program
+Simple Data Types,Using Predefined Functions in a Program
+Arithmetic Operators and Operator Precedence,Using Predefined Functions in a Program
+Expressions,Using Predefined Functions in a Program
+2 BASIC ELEMENTS OF C++,cin and the get Function
+Input,cin and the get Function
+2 BASIC ELEMENTS OF C++,cin and the ignore Function
+Input,cin and the ignore Function
+2 BASIC ELEMENTS OF C++,The putback and peek Functions
+Data Types,The putback and peek Functions
+Input,The putback and peek Functions
+string Type,The putback and peek Functions
+2 BASIC ELEMENTS OF C++,The Dot Notation between I/O Stream Variables and I/O Functions: A Precaution
+Input,The Dot Notation between I/O Stream Variables and I/O Functions: A Precaution
+2 BASIC ELEMENTS OF C++,The clear Function
+A C++ Program,The clear Function
+The Basics of a C++ Program,The clear Function
+Input,The clear Function

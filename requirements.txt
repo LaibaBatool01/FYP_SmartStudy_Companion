@@ -1,0 +1,149 @@
+# ================================
+# MAIN STREAMLIT APPLICATION
+# ================================
+
+# Core Streamlit Framework
+streamlit>=1.29.0
+
+# Database Connections
+pymongo>=4.6.1
+neo4j>=5.28.0
+
+# Environment Management
+python-dotenv>=1.0.0
+
+# Data Processing & Analysis
+pandas>=1.5.0
+numpy>=1.24.0
+
+# Visualizations
+plotly>=5.15.0
+pyvis>=0.3.2
+networkx>=3.0
+
+# PDF Processing (for TOC extraction)
+PyPDF2>=3.0.0
+pdfminer.six>=20221105
+PyMuPDF>=1.23.0
+
+# Web Requests & API Communication
+requests>=2.31.0
+urllib3>=2.0.0
+
+# ================================
+# AI MODEL DEPENDENCIES
+# ================================
+
+# PyTorch & Deep Learning
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+
+# Hugging Face Transformers
+transformers>=4.35.0
+tokenizers>=0.15.0
+accelerate>=0.24.0
+
+# Model Optimization
+optimum>=1.14.0
+bitsandbytes>=0.41.0
+
+# ================================
+# API SERVER & TUNNELING
+# ================================
+
+# Flask for API servers
+Flask>=2.3.0
+Flask-CORS>=4.0.0
+
+# Ngrok for tunneling
+pyngrok>=7.0.0
+
+# WSGI Server (for production)
+gunicorn>=21.0.0
+
+# ================================
+# SECURITY & AUTHENTICATION
+# ================================
+
+# Password hashing (built-in hashlib alternative)
+bcrypt>=4.0.0
+
+# JWT tokens (if needed for API auth)
+PyJWT>=2.8.0
+
+# Email validation
+email-validator>=2.1.0
+
+# ================================
+# DEVELOPMENT & TESTING
+# ================================
+
+# Code formatting & linting
+black>=23.0.0
+flake8>=6.0.0
+isort>=5.12.0
+
+# Testing framework
+pytest>=7.4.0
+pytest-cov>=4.1.0
+
+# Type checking
+mypy>=1.7.0
+
+# ================================
+# ADDITIONAL UTILITIES
+# ================================
+
+# JSON handling (enhanced)
+ujson>=5.8.0
+
+# Date/time handling
+python-dateutil>=2.8.0
+
+# Progress bars
+tqdm>=4.66.0
+
+# Configuration management
+pydantic>=2.5.0
+
+# Logging
+loguru>=0.7.0
+
+# File handling
+pathlib2>=2.3.0
+
+# Regular expressions (enhanced)
+regex>=2023.10.0
+
+# ================================
+# OPTIONAL PERFORMANCE PACKAGES
+# ================================
+
+# Fast JSON parsing
+orjson>=3.9.0
+
+# Fast CSV processing
+polars>=0.20.0
+
+# Memory profiling (development)
+memory-profiler>=0.61.0
+
+# ================================
+# PLATFORM-SPECIFIC NOTES
+# ================================
+# For Windows users, you may need:
+# - Microsoft Visual C++ Build Tools
+# - Windows SDK
+
+# For GPU support (CUDA), install PyTorch with CUDA:
+# pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+
+# For Apple Silicon (M1/M2) Macs:
+# pip install torch torchvision torchaudio
+
+# ================================
+# MINIMUM PYTHON VERSION
+# ================================
+# Python >= 3.8 required
+# Python >= 3.9 recommended for best compatibility

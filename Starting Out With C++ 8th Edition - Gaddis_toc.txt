@@ -1,0 +1,272 @@
+Front Cover .... 1
+Title Page .... 4
+Copyright Page .... 5
+Contents at a Glance .... 6
+CONTENTS (with direct page links) .... 8
+Location of Videonotes in the Text .... 14
+About the Author .... 30
+CHAPTER 1 Introduction to Computers and Programming .... 32
+1.1 Why Program? .... 32
+1.2 Computer Systems: Hardware and Software .... 33
+1.3 Programs and Programming Languages .... 39
+1.4 What Is a Program Made of? .... 45
+1.5 Input, Processing, and Output .... 48
+1.6 The Programming Process .... 49
+1.7 Procedural and Object-Oriented Programming .... 53
+Review Questions and Exercises .... 55
+CHAPTER 2 Introduction to C++ .... 58
+2.1 The Parts of a C++ Program .... 58
+2.2 The cout Object .... 62
+2.3 The #include Directive .... 67
+2.4 Variables and Literals .... 68
+2.5 Identifiers .... 72
+2.6 Integer Data Types .... 73
+2.7 The char Data Type .... 79
+2.8 The C++ string Class .... 83
+2.9 Floating-Point Data Types .... 85
+2.10 The bool Data Type .... 88
+2.11 Determining the Size of a Data Type .... 89
+2.12 Variable Assignments and Initialization .... 90
+2.13 Scope .... 92
+2.14 Arithmetic Operators .... 92
+2.15 Comments .... 100
+2.16 Named Constants .... 102
+2.17 Programming Style .... 104
+Review Questions and Exercises .... 106
+CHAPTER 3 Expressions and Interactivity .... 114
+3.1 The cin Object .... 114
+3.2 Mathematical Expressions .... 120
+3.3 When You Mix Apples and Oranges: Type Conversion .... 129
+3.4 Overflow and Underflow .... 131
+3.5 Type Casting .... 132
+3.6 Multiple Assignment and Combined Assignment .... 135
+3.7 Formatting Output .... 139
+3.8 Working with Characters and string Objects .... 149
+3.9 More Mathematical Library Functions .... 155
+3.10 Focus on Debugging: Hand Tracing a Program .... 161
+3.11 Focus on Problem Solving: A Case Study .... 163
+Review Questions and Exercises .... 167
+CHAPTER 4 Making Decisions .... 180
+4.1 Relational Operators .... 180
+4.2 The if Statement .... 185
+4.3 Expanding the if Statement .... 193
+4.4 The if/else Statement .... 197
+4.5 Nested if Statements .... 200
+4.6 The if/else if Statement .... 207
+4.7 Flags .... 212
+4.8 Logical Operators .... 213
+4.9 Checking Numeric Ranges with Logical Operators .... 220
+4.10 Menus .... 221
+4.11 Focus on Software Engineering: Validating User Input .... 224
+4.12 Comparing Characters and Strings .... 226
+4.13 The Conditional Operator .... 230
+4.14 The switch Statement .... 233
+4.15 More About Blocks and Variable Scope .... 242
+Review Questions and Exercises .... 245
+CHAPTER 5 Loops and Files .... 258
+5.1 The Increment and Decrement Operators .... 258
+5.2 Introduction to Loops: The while Loop .... 263
+5.3 Using the while Loop for Input Validation .... 270
+5.4 Counters .... 272
+5.5 The do-while Loop .... 273
+5.6 The for Loop .... 278
+5.7 Keeping a Running Total .... 288
+5.8 Sentinels .... 291
+5.9 Focus on Software Engineering: Deciding Which Loop to Use .... 292
+5.10 Nested Loops .... 293
+5.11 Using Files for Data Storage .... 296
+5.12 Optional Topics: Breaking and Continuing a Loop .... 315
+Review Questions and Exercises .... 319
+CHAPTER 6 Functions .... 330
+6.1 Focus on Software Engineering: Modular Programming .... 330
+6.2 Defining and Calling Functions .... 331
+6.3 Function Prototypes .... 340
+6.4 Sending Data into a Function .... 342
+6.5 Passing Data by Value .... 347
+6.6 Focus on Software Engineering: Using Functions in a Menu-Driven Program .... 349
+6.7 The return Statement .... 353
+6.8 Returning a Value from a Function .... 355
+6.9 Returning a Boolean Value .... 363
+6.10 Local and Global Variables .... 365
+6.11 Static Local Variables .... 373
+6.12 Default Arguments .... 376
+6.13 Using Reference Variables as Parameters .... 379
+6.14 Overloading Functions .... 385
+6.15 The exit() Function .... 389
+6.16 Stubs and Drivers .... 392
+Review Questions and Exercises .... 394
+CHAPTER 7 Arrays .... 406
+7.1 Arrays Hold Multiple Values .... 406
+7.2 Accessing Array Elements .... 408
+7.3 No Bounds Checking in C++ .... 415
+7.4 Array Initialization .... 418
+7.5 The Range-Based for Loop .... 423
+7.6 Processing Array Contents .... 427
+7.7 Focus on Software Engineering: Using Parallel Arrays .... 435
+7.8 Arrays as Function Arguments .... 438
+7.9 Two-Dimensional Arrays .... 449
+7.10 Arrays with Three or More Dimensions .... 456
+7.11 Focus on Problem Solving and Program Design: A Case Study .... 458
+7.12 If You Plan to Continue in Computer Science: Introduction to the STL vector .... 460
+Review Questions and Exercises .... 474
+CHAPTER 8 Searching and Sorting Arrays .... 488
+8.1 Focus on Software Engineering: Introduction to Search Algorithms .... 488
+8.2 Focus on Problem Solving and Program Design: A Case Study .... 494
+8.3 Focus on Software Engineering: Introduction to Sorting Algorithms .... 501
+8.4 Focus on Problem Solving and Program Design: A Case Study .... 508
+8.5 If You Plan to Continue in Computer Science: Sorting and Searching vectors .... 516
+Review Questions and Exercises .... 521
+CHAPTER 9 Pointers .... 526
+9.1 Getting the Address of a Variable .... 526
+9.2 Pointer Variables .... 528
+9.3 The Relationship Between Arrays and Pointers .... 535
+9.4 Pointer Arithmetic .... 539
+9.5 Initializing Pointers .... 541
+9.6 Comparing Pointers .... 542
+9.7 Pointers as Function Parameters .... 544
+9.8 Focus on Software Engineering: Dynamic Memory Allocation .... 553
+9.9 Focus on Software Engineering: Returning Pointers from Functions .... 557
+9.10 Using Smart Pointers to Avoid Memory Leaks .... 564
+9.11 Focus on Problem Solving and Program Design: A Case Study .... 567
+Review Questions and Exercises .... 572
+CHAPTER 10 Characters, C-Strings, and More About the string Class .... 578
+10.1 Character Testing .... 578
+10.2 Character Case Conversion .... 582
+10.3 C-Strings .... 585
+10.4 Library Functions for Working with C-Strings .... 589
+10.5 C-String/Numeric Conversion Functions .... 600
+10.6 Focus on Software Engineering: Writing Your Own C-String-Handling Functions .... 606
+10.7 More About the C++ string Class .... 612
+10.8 Focus on Problem Solving and Program Design: A Case Study .... 621
+Review Questions and Exercises .... 622
+CHAPTER 11 Structured Data .... 630
+11.1 Abstract Data Types .... 630
+11.2 Focus on Software Engineering: Combining Data into Structures .... 632
+11.3 Accessing Structure Members .... 635
+11.4 Initializing a Structure .... 639
+11.5 Arrays of Structures .... 642
+11.6 Focus on Software Engineering: Nested Structures .... 644
+11.7 Structures as Function Arguments .... 648
+11.8 Returning a Structure from a Function .... 651
+11.9 Pointers to Structures .... 654
+11.10 Focus on Software Engineering: When to Use . , When to Use -> , and When to Use * .... 657
+11.11 Unions .... 659
+11.12 Enumerated Data Types .... 663
+Review Questions and Exercises .... 675
+CHAPTER 12 Advanced File Operations .... 688
+12.1 File Operations .... 688
+12.2 File Output Formatting .... 694
+12.3 Passing File Stream Objects to Functions .... 696
+12.4 More Detailed Error Testing .... 698
+12.5 Member Functions for Reading and Writing Files .... 701
+12.6 Focus on Software Engineering: Working with Multiple Files .... 709
+12.7 Binary Files .... 711
+12.8 Creating Records with Structures .... 716
+12.9 Random-Access Files .... 720
+12.10 Opening a File for Both Input and Output .... 728
+Review Questions and Exercises .... 733
+CHAPTER 13 Introduction to Classes .... 742
+13.1 Procedural and Object-Oriented Programming .... 742
+13.2 Introduction to Classes .... 749
+13.3 Defining an Instance of a Class .... 754
+13.4 Why Have Private Members? .... 767
+13.5 Focus on Software Engineering: Separating Class Specification from Implementation .... 768
+13.6 Inline Member Functions .... 774
+13.7 Constructors .... 777
+13.8 Passing Arguments to Constructors .... 781
+13.9 Destructors .... 789
+13.10 Overloading Constructors .... 793
+13.11 Private Member Functions .... 796
+13.12 Arrays of Objects .... 798
+13.13 Focus on Problem Solving and Program Design: An OOP Case Study .... 802
+13.14 Focus on Object-Oriented Programming: Simulating Dice with Objects .... 809
+13.15 Focus on Object-Oriented Programming: Creating an Abstract Array Data Type .... 813
+13.16 Focus on Object-Oriented Design: The Unified Modeling Language (UML) .... 816
+13.17 Focus on Object-Oriented Design: Finding the Classes and Their Responsibilities .... 819
+Review Questions and Exercises .... 828
+CHAPTER 14 More About Classes .... 842
+14.1 Instance and Static Members .... 842
+14.2 Friends of Classes .... 850
+14.3 Memberwise Assignment .... 855
+14.4 Copy Constructors .... 856
+14.5 Operator Overloading .... 862
+14.6 Object Conversion .... 889
+14.7 Aggregation .... 891
+14.8 Focus on Object-Oriented Design: Class Collaborations .... 896
+14.9 Focus on Object-Oriented Programming: Simulating the Game of Cho-Han .... 900
+Review Questions and Exercises .... 910
+CHAPTER 15 Inheritance, Polymorphism, and Virtual Functions .... 922
+15.1 What Is Inheritance? .... 922
+15.2 Protected Members and Class Access .... 931
+15.3 Constructors and Destructors in Base and Derived Classes .... 937
+15.4 Redefining Base Class Functions .... 949
+15.5 Class Hierarchies .... 954
+15.6 Polymorphism and Virtual Member Functions .... 960
+15.7 Abstract Base Classes and Pure Virtual Functions .... 976
+15.8 Multiple Inheritance .... 983
+Review Questions and Exercises .... 990
+CHAPTER 16 Exceptions, Templates, and the Standard Template Library (STL) .... 1002
+16.1 Exceptions .... 1002
+16.2 Function Templates .... 1021
+16.3 Focus on Software Engineering: Where to Start When Defining Templates .... 1027
+16.4 Class Templates .... 1027
+16.5 Introduction to the Standard Template Library (STL) .... 1036
+Review Questions and Exercises .... 1050
+CHAPTER 17 Linked Lists .... 1056
+17.1 Introduction to the Linked List ADT .... 1056
+17.2 Linked List Operations .... 1058
+17.3 A Linked List Template .... 1074
+17.4 Variations of the Linked List .... 1086
+17.5 The STL list Container .... 1087
+Review Questions and Exercises .... 1089
+CHAPTER 18 Stacks and Queues .... 1094
+18.1 Introduction to the Stack ADT .... 1094
+18.2 Dynamic Stacks .... 1111
+18.3 The STL stack Container .... 1122
+18.4 Introduction to the Queue ADT .... 1124
+18.5 Dynamic Queues .... 1136
+18.6 The STL deque and queue Containers .... 1143
+Review Questions and Exercises .... 1146
+CHAPTER 19 Recursion .... 1152
+19.1 Introduction to Recursion .... 1152
+19.2 Solving Problems with Recursion .... 1156
+19.3 Focus on Problem Solving and Program Design: The Recursive gcd Function .... 1164
+19.4 Focus on Problem Solving and Program Design: Solving Recursively Defined Problems .... 1165
+19.5 Focus on Problem Solving and Program Design: Recursive Linked List Operations .... 1166
+19.6 Focus on Problem Solving and Program Design: A Recursive Binary Search Function .... 1170
+19.7 The Towers of Hanoi .... 1172
+19.8 Focus on Problem Solving and Program Design: The QuickSort Algorithm .... 1175
+19.9 Exhaustive Algorithms .... 1179
+19.10 Focus on Software Engineering: Recursion vs. Iteration .... 1182
+Review Questions and Exercises .... 1182
+CHAPTER 20 Binary Trees .... 1186
+20.1 Definition and Applications of Binary Trees .... 1186
+20.2 Binary Search Tree Operations .... 1189
+20.3 Template Considerations for Binary Search Trees .... 1206
+Review Questions and Exercises .... 1212
+A: Getting Started with Alice .... 1216
+B: The ASCII Character Set .... 1242
+C: Operator Precedence and Associativity .... 1244
+C++ Quick Reference .... 1246
+A .... 1248
+B .... 1249
+C .... 1250
+D .... 1252
+E .... 1253
+F .... 1254
+G .... 1256
+H .... 1256
+I .... 1256
+J-K-L .... 1257
+M .... 1258
+N .... 1259
+O .... 1260
+P .... 1261
+Q .... 1262
+R .... 1262
+S .... 1263
+T-U .... 1265
+V .... 1265
+W .... 1266
+Z .... 1266
+Credits .... 1268
