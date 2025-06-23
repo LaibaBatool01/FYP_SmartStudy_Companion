@@ -765,20 +765,7 @@ Content-Type: application/json
 - **Use Google Colab Pro** for faster GPUs and longer runtimes
 - **Cache model responses** for common topics to reduce API calls
 
-## 🤝 Contributing
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-### Development Guidelines
-- Follow PEP 8 style guidelines
-- Add docstrings to all functions
-- Include error handling for external APIs
-- Test authentication flows thoroughly
-- Ensure responsive design for all components
 
 ## 📄 License
 
@@ -790,13 +777,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - MongoDB for reliable data storage
 - Plotly for interactive visualizations
 - The open-source community for various libraries used
-
-## 📞 Support
-
-For questions, issues, or contributions, please:
-- Open an issue on GitHub
-- Contact the development team
-- Check the troubleshooting section above
 
 ---
 
